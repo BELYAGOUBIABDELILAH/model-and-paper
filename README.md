@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-4%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-5%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-5%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -43,6 +43,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](./papers/2026-11-05-rea-routed-embodied-agent-runtime.md)** ([Source](https://huggingface.co/papers/rea-routed-embodied-agent))  
   Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize.
 
+* **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](./papers/2026-11-05-frontierphysics-evaluating-agents-for-end-to-end-physics-res.md)** ([Source](https://huggingface.co/papers/2611.06910))  
+  AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics.
+
 * **[From Pixels to Actions - Towards Native Vision-Language-Action Policies](./papers/2026-11-05-from-pixels-to-actions-towards-native-vision-language-action.md)** ([Source](https://huggingface.co/papers/2611.06918))  
   Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation?
 
@@ -50,7 +53,7 @@ Weekly coverage of open-source AI models and machine learning research papers.
   A unified framework for multi-step planning, tool execution, and self-correction in autonomous LLM agents operating across long-horizon software engineering tasks.
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->4<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->5<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 

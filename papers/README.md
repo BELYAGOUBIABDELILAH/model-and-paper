@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **4** papers.
+Total indexed: **5** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -11,6 +11,9 @@ Total indexed: **4** papers.
 
 * **[REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](./2026-11-05-rea-routed-embodied-agent-runtime.md)** ([Source](https://huggingface.co/papers/rea-routed-embodied-agent))  
   Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize.
+
+* **[FrontierPhysics: Evaluating Agents for End-to-End Physics Research](./2026-11-05-frontierphysics-evaluating-agents-for-end-to-end-physics-res.md)** ([Source](https://huggingface.co/papers/2611.06910))  
+  AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research quality alongside correctness. We introduce FrontierPhysics, an end-to-end benchmark with 56 tasks made by 42 physicists based on their own research, covering nine domains across theoretical, computational, and experimental physics.
 
 * **[From Pixels to Actions - Towards Native Vision-Language-Action Policies](./2026-11-05-from-pixels-to-actions-towards-native-vision-language-action.md)** ([Source](https://huggingface.co/papers/2611.06918))  
   Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most vulnerable to this abstraction, e.g., local geometry, boundaries, depth, and subtle state changes. This raises a fundamental question: should action policies inherit a fixed visual endpoint, or directly access evolving visual computation?
