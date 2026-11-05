@@ -1,0 +1,36 @@
+name: Organize Model & Paper Index
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "models/**.md"
+      - "papers/**.md"
+      - "!models/README.md"
+      - "!papers/README.md"
+
+permissions:
+  contents: write
+
+jobs:
+  build-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Rebuild README Indexes
+        run: python scripts/update_readme.py
+
+      - name: Commit Organized Files
+        run: |
+          git config user.name "Belyagoubi Mohammed Abdelilah"
+          git config user.email "belyagoubiabdillah@gmail.com"
+          git add README.md models/README.md papers/README.md
+          git diff --staged --quiet || git commit -m "docs: update indexes"
+          git push
