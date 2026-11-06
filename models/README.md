@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **5** models.
+Total indexed: **6** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[ccore/Qwen3.5-4B-3D-Coder](./2026-11-06-qwen3-5-4b-3d-coder.md)** ([Source](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder))  
+  Qwen3.5-4B-3D-Coder is a machine learning tasks model from ccore. This is an independent fine-tune by CCORE, based on Qwen/Qwen3.5-4B. It is not an official Qwen release.
 
 * **[Qwen/Qwen2.5-Coder-32B-Instruct](./2026-11-05-qwen2-5-coder-32b-instruct.md)** ([Source](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct))  
   Qwen2.5-Coder-32B-Instruct is a text generation model from Qwen built for code synthesis, code reasoning, and automated debugging across more than 40 programming languages.
