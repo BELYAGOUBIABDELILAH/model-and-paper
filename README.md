@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-6%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-6%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-7%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[ccore/Qwen3.5-4B-3D-Coder](./models/2026-11-06-qwen3-5-4b-3d-coder.md)** ([Source](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder))  
   Qwen3.5-4B-3D-Coder is a machine learning tasks model from ccore. This is an independent fine-tune by CCORE, based on Qwen/Qwen3.5-4B. It is not an official Qwen release.
 
+* **[Lightricks/LTX-2.5](./models/2026-11-06-ltx-2-5.md)** ([Source](https://huggingface.co/Lightricks/LTX-2.5))  
+  LTX-2.5 is a image-to-video generation model from Lightricks. Access to model Lightricks/LTX-2.5 is restricted. You must have access to it and be authenticated to access it. Please log in.
+
 * **[Qwen/Qwen2.5-Coder-32B-Instruct](./models/2026-11-05-qwen2-5-coder-32b-instruct.md)** ([Source](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct))  
   Qwen2.5-Coder-32B-Instruct is a text generation model from Qwen built for code synthesis, code reasoning, and automated debugging across more than 40 programming languages.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[mistralai/Mistral-Large-4-1T-A52B](./models/2026-11-05-mistral-large-4-1t-a52b.md)** ([Source](https://huggingface.co/mistralai/Mistral-Large-4-1T-A52B))  
   Mistral-Large-4-1T-A52B is a multimodal image and text understanding model from mistralai. Mistral Large 4 is our largest and most capable model to date: a 1 trillion-parameter natively multimodal Mixture-of-Experts model with 49 billion active parameters per token (52 billion including embeddings and output layers), trained from scratch on 3,800 NVIDIA Grace Blackwell GPUs in Mistral's own datacenters in Europe.
-
-* **[moonshotai/Kimi-K3.1-Pro](./models/2026-11-05-kimi-k3-1-pro.md)** ([Source](https://huggingface.co/moonshotai/Kimi-K3.1-Pro))  
-  Kimi-K3.1-Pro is a multimodal image and text understanding model from moonshotai. Kimi K3.1 Pro is an open-weight, natively multimodal agentic model, and our most capable 3T-class model to date. Post-trained from Kimi K3 with large-scale joint reinforcement learning across hundreds of downstream domains, it is the first model in the K3.1 series. With a 1-million-token context window, Kimi K3.1 Pro delivers substantial improvements in coding, 3D creation, financial research, factual accuracy, and other agentic capabilities.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->6<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->7<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
