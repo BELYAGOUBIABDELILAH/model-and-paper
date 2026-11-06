@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **6** papers.
+Total indexed: **7** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **6** papers.
 
 * **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](./2026-11-06-vflash-fast-accurate-visual-planning-via-flash-primitive-dec.md)** ([Source](https://huggingface.co/papers/2611.08449))  
   Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly.
+
+* **[SLA: Scaling Spatial-Language-Action Model via Continual Pre-training](./2026-11-06-sla-scaling-spatial-language-action-model-via-continual-pre.md)** ([Source](https://huggingface.co/papers/2611.08373))  
+  Reliable robotic manipulation requires both semantic understanding and precise control in three-dimensional space. However, vision-language-action (VLA) foundations largely inherit visual representations from 2D vision-language pre-training, while spatial supervision is often introduced only during task-specific adaptation. Developing spatial understanding as a transferable foundation-model capability therefore calls for learning from broader robot experience.
 
 * **[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](./2026-11-05-turns-matter-advancing-streaming-video-rl-via-turn-level-cre.md)** ([Source](https://huggingface.co/papers/2611.06728))  
   Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures.
