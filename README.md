@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-8%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-9%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-9%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -40,6 +40,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./papers/2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
   We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
 
+* **[The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](./papers/2026-11-07-the-last-mile-to-the-real-world-agent-native-primitives-as-r.md)** ([Source](https://huggingface.co/papers/2611.07461))  
+  How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%. These tasks fail at the step from reaching a resource to applying it, which we call the last mile to the real world.
+
 * **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](./papers/2026-11-06-vflash-fast-accurate-visual-planning-via-flash-primitive-dec.md)** ([Source](https://huggingface.co/papers/2611.08449))  
   Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly.
 
@@ -48,12 +51,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Turns Matter: Advancing Streaming Video RL via Turn-Level Credit](./papers/2026-11-05-turns-matter-advancing-streaming-video-rl-via-turn-level-cre.md)** ([Source](https://huggingface.co/papers/2611.06728))  
   Streaming video understanding requires models to repeatedly decide whether to respond or continue observing. Recently, Group Relative Policy Optimization (GRPO) has been applied to this setting, with existing approaches emphasizing reward design while retaining a single trajectory-level advantage across turns. Such shared credit can reinforce redundant replies after earlier successes and discourage useful follow-ups after earlier failures.
-
-* **[REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control](./papers/2026-11-05-rea-routed-embodied-agent-runtime.md)** ([Source](https://huggingface.co/papers/rea-routed-embodied-agent))  
-  Foundation models are becoming remarkably reliable at high-level reasoning, yet they remain too slow and costly to serve as fine-grained controllers. Conversely, fast policies like VLAs and whole-body controllers offer more efficient reflexes, but struggle to generalize.
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->8<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->9<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 

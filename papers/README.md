@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **8** papers.
+Total indexed: **9** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **8** papers.
 
 * **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
   We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
+
+* **[The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](./2026-11-07-the-last-mile-to-the-real-world-agent-native-primitives-as-r.md)** ([Source](https://huggingface.co/papers/2611.07461))  
+  How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%. These tasks fail at the step from reaching a resource to applying it, which we call the last mile to the real world.
 
 * **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](./2026-11-06-vflash-fast-accurate-visual-planning-via-flash-primitive-dec.md)** ([Source](https://huggingface.co/papers/2611.08449))  
   Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly.
