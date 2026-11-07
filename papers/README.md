@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **7** papers.
+Total indexed: **8** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
+  We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
 
 * **[VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding](./2026-11-06-vflash-fast-accurate-visual-planning-via-flash-primitive-dec.md)** ([Source](https://huggingface.co/papers/2611.08449))  
   Models for physical AI tasks, such as robotics and autonomous driving, need not reason solely in language. They can use visual plans--points, bounding boxes, and trajectories--to represent spatial goals and anticipate motion. However, autoregressive vision-language models generate these plans one coordinate token at a time, making richer predictions increasingly costly.
