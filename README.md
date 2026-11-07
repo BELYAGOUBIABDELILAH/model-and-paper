@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-8%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-8%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-9%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[ricursiveAI/Ripple-65B-Preview](./models/2026-11-07-ripple-65b-preview.md)** ([Source](https://huggingface.co/ricursiveAI/Ripple-65B-Preview))  
+  Ripple-65B-Preview is a machine learning tasks model from ricursiveAI. Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context.
+
 * **[burner22/numbat](./models/2026-11-07-numbat.md)** ([Source](https://huggingface.co/burner22/numbat))  
   numbat is a machine learning tasks model from burner22. training run. numbat is the codename referenced in the Claude Code
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Qwen/Qwen2.5-Coder-32B-Instruct](./models/2026-11-05-qwen2-5-coder-32b-instruct.md)** ([Source](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct))  
   Qwen2.5-Coder-32B-Instruct is a text generation model from Qwen built for code synthesis, code reasoning, and automated debugging across more than 40 programming languages.
-
-* **[Pika-Labs/Pika-H3-Flex](./models/2026-11-05-pika-h3-flex.md)** ([Source](https://huggingface.co/Pika-Labs/Pika-H3-Flex))  
-  Pika-H3-Flex is a image-to-video generation model from Pika-Labs. Pika H3 Flex is a post-trained H3 model, designed to give professional creators the flexibility and speed to explore with precision. Optimized for greater control, it generates video with synchronized audio in six sampling steps and supports up to 12 reference inputs, with shot direction through references and prompts.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->8<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->9<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
