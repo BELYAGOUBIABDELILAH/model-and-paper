@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **7** models.
+Total indexed: **8** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[burner22/numbat](./2026-11-07-numbat.md)** ([Source](https://huggingface.co/burner22/numbat))  
+  numbat is a machine learning tasks model from burner22. training run. numbat is the codename referenced in the Claude Code
 
 * **[ccore/Qwen3.5-4B-3D-Coder](./2026-11-06-qwen3-5-4b-3d-coder.md)** ([Source](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder))  
   Qwen3.5-4B-3D-Coder is a machine learning tasks model from ccore. This is an independent fine-tune by CCORE, based on Qwen/Qwen3.5-4B. It is not an official Qwen release.
