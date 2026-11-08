@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-9%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-9%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-10%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](./models/2026-11-08-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic.md)** ([Source](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic))  
+  DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is a text generation model from xtools-at. This is a decensored version of Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B, made using Heretic v2.0.0.dev0
+
 * **[ricursiveAI/Ripple-65B-Preview](./models/2026-11-07-ripple-65b-preview.md)** ([Source](https://huggingface.co/ricursiveAI/Ripple-65B-Preview))  
   Ripple-65B-Preview is a machine learning tasks model from ricursiveAI. Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Lightricks/LTX-2.5](./models/2026-11-06-ltx-2-5.md)** ([Source](https://huggingface.co/Lightricks/LTX-2.5))  
   LTX-2.5 is a image-to-video generation model from Lightricks. Access to model Lightricks/LTX-2.5 is restricted. You must have access to it and be authenticated to access it. Please log in.
-
-* **[Qwen/Qwen2.5-Coder-32B-Instruct](./models/2026-11-05-qwen2-5-coder-32b-instruct.md)** ([Source](https://huggingface.co/Qwen/Qwen2.5-Coder-32B-Instruct))  
-  Qwen2.5-Coder-32B-Instruct is a text generation model from Qwen built for code synthesis, code reasoning, and automated debugging across more than 40 programming languages.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->9<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->10<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **9** models.
+Total indexed: **10** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](./2026-11-08-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic.md)** ([Source](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic))  
+  DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is a text generation model from xtools-at. This is a decensored version of Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B, made using Heretic v2.0.0.dev0
 
 * **[ricursiveAI/Ripple-65B-Preview](./2026-11-07-ripple-65b-preview.md)** ([Source](https://huggingface.co/ricursiveAI/Ripple-65B-Preview))  
   Ripple-65B-Preview is a machine learning tasks model from ricursiveAI. Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context.
