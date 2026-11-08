@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **10** models.
+Total indexed: **11** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[FusionCow/Sulphur-3](./2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
+  Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 
 * **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](./2026-11-08-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic.md)** ([Source](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic))  
   DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is a text generation model from xtools-at. This is a decensored version of Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B, made using Heretic v2.0.0.dev0

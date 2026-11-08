@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-10%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-10%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-11%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[FusionCow/Sulphur-3](./models/2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
+  Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.
+
 * **[xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic](./models/2026-11-08-deepseek-v4-pro-qwen3-5-9b-uncensored-heretic.md)** ([Source](https://huggingface.co/xtools-at/DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic))  
   DeepSeek-V4-Pro-Qwen3.5-9B-UNCENSORED-heretic is a text generation model from xtools-at. This is a decensored version of Jackrong/DeepSeek-V4-Pro-Qwen3.5-9B, made using Heretic v2.0.0.dev0
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[ccore/Qwen3.5-4B-3D-Coder](./models/2026-11-06-qwen3-5-4b-3d-coder.md)** ([Source](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder))  
   Qwen3.5-4B-3D-Coder is a machine learning tasks model from ccore. This is an independent fine-tune by CCORE, based on Qwen/Qwen3.5-4B. It is not an official Qwen release.
-
-* **[Lightricks/LTX-2.5](./models/2026-11-06-ltx-2-5.md)** ([Source](https://huggingface.co/Lightricks/LTX-2.5))  
-  LTX-2.5 is a image-to-video generation model from Lightricks. Access to model Lightricks/LTX-2.5 is restricted. You must have access to it and be authenticated to access it. Please log in.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->10<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->11<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
