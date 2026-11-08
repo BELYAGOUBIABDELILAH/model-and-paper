@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **10** papers.
+Total indexed: **11** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **10** papers.
 
 * **[Towards Foundation Decision Models: Drex](./2026-11-08-towards-foundation-decision-models-drex.md)** ([Source](https://huggingface.co/papers/2611.07854))  
   Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tasks. In production, however, they give inconsistent answers, require parsing of outputs, and add cost and latency. Decision models address this: given a question and a set of options supplied by the user, they return a probability distribution over the options without autoregressive decoding.
+
+* **[EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure](./2026-11-08-edgar-efficient-diffusion-driven-gaussian-avatar-refinement.md)** ([Source](https://huggingface.co/papers/2611.07909))  
+  Recent advances in Gaussian splatting have enabled efficient and photorealistic head avatar reconstruction, yet monocular video-based or image-based methods still suffer from under-constrained geometry and texture, leading to artifacts such as blurring, stretching, and temporal instability. We present EDGAR (Efficient Diffusion-Driven Gaussian Avatar Refinement), a conditional diffusion framework designed to enhance the quality of Gaussian avatars by correcting artifacts while preserving identity fidelity. To tr...
 
 * **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
   We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
