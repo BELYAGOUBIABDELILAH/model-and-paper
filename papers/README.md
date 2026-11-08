@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **9** papers.
+Total indexed: **10** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Towards Foundation Decision Models: Drex](./2026-11-08-towards-foundation-decision-models-drex.md)** ([Source](https://huggingface.co/papers/2611.07854))  
+  Autoregressive approaches with large language models, such as long chain-of-thought reasoning, have become the default for new AI applications because they reach higher accuracy on a wide range of tasks. In production, however, they give inconsistent answers, require parsing of outputs, and add cost and latency. Decision models address this: given a question and a set of options supplied by the user, they return a probability distribution over the options without autoregressive decoding.
 
 * **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
   We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
