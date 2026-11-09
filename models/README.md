@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **12** models.
+Total indexed: **13** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **12** models.
 
 * **[DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](./2026-11-09-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensor.md)** ([Source](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF))  
   Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF is a multimodal image and text understanding model from DavidAU. In otherwords while "reg" Qwen3.8 27B is thinking about "formatting" for a few 1000 tokens, this model is already done and waiting for more.
+
+* **[NousResearch/Arete-27B](./2026-11-09-arete-27b.md)** ([Source](https://huggingface.co/NousResearch/Arete-27B))  
+  Arete-27B is a text generation model from NousResearch. The blog post announces publication of the training dataset. See the blog post for release links; the linked PropagandaEval dataset is the held-out evaluation, not the training dataset.
 
 * **[FusionCow/Sulphur-3](./2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
   Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.

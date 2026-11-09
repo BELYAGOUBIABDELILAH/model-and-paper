@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-12%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-12%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-13%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](./models/2026-11-09-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensor.md)** ([Source](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF))  
   Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF is a multimodal image and text understanding model from DavidAU. In otherwords while "reg" Qwen3.8 27B is thinking about "formatting" for a few 1000 tokens, this model is already done and waiting for more.
 
+* **[NousResearch/Arete-27B](./models/2026-11-09-arete-27b.md)** ([Source](https://huggingface.co/NousResearch/Arete-27B))  
+  Arete-27B is a text generation model from NousResearch. The blog post announces publication of the training dataset. See the blog post for release links; the linked PropagandaEval dataset is the held-out evaluation, not the training dataset.
+
 * **[FusionCow/Sulphur-3](./models/2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
   Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[ricursiveAI/Ripple-65B-Preview](./models/2026-11-07-ripple-65b-preview.md)** ([Source](https://huggingface.co/ricursiveAI/Ripple-65B-Preview))  
   Ripple-65B-Preview is a machine learning tasks model from ricursiveAI. Ricursive Intelligence introduces Ripple-65B Preview, a 65B parameter dense Transformer model pretrained on 12 trillion tokens with support for up to 1Mi (1,048,576 tokens) of context.
-
-* **[burner22/numbat](./models/2026-11-07-numbat.md)** ([Source](https://huggingface.co/burner22/numbat))  
-  numbat is a machine learning tasks model from burner22. training run. numbat is the codename referenced in the Claude Code
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->12<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->13<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
