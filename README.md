@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-12%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-13%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-13%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -37,6 +37,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Research Papers
 
 <!-- PAPERS:START -->
+* **[Video-Coder: Reinforcing Agentic Coding for Video Generation](./papers/2026-11-09-video-coder-reinforcing-agentic-coding-for-video-generation.md)** ([Source](https://huggingface.co/papers/2611.09894))  
+  Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals to downstream vi...
+
 * **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](./papers/2026-11-09-splatanything-gaussian-spacing-normalization-for-feed-forwar.md)** ([Source](https://huggingface.co/papers/2611.08264))  
   We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spa...
 
@@ -48,12 +51,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[WeLM-Image: A Unified Image Generation Model towards Visual Intelligence](./papers/2026-11-07-welm-image-a-unified-image-generation-model-towards-visual-i.md)** ([Source](https://huggingface.co/papers/2611.07392))  
   We present WeLM-Image, a unified image foundation model that integrates multimodal understanding into text-to-image generation, instruction-guided editing, and multi-reference synthesis. Designed for single-GPU deployment in WeChat's large-scale consumer applications, the model processes text, reference images, and target latents as one interleaved sequence. A Mixture-of-Transformers (MoT) backbone combines shared attention with independent understanding and generation parameters to limit optimization interference.
-
-* **[The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks](./papers/2026-11-07-the-last-mile-to-the-real-world-agent-native-primitives-as-r.md)** ([Source](https://huggingface.co/papers/2611.07461))  
-  How can an agent handle a real-world task end to end? Frontier models with their own harnesses still fall short on real-world benchmarks: on Terminal-Bench 4.0, GPT-5.6 Sol with Codex resolves 37.3% of the tasks and Claude Opus 5 with Claude Code 51.8%. These tasks fail at the step from reaching a resource to applying it, which we call the last mile to the real world.
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->12<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->13<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 
