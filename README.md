@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-11%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-11%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-12%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](./models/2026-11-09-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensor.md)** ([Source](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF))  
+  Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF is a multimodal image and text understanding model from DavidAU. In otherwords while "reg" Qwen3.8 27B is thinking about "formatting" for a few 1000 tokens, this model is already done and waiting for more.
+
 * **[FusionCow/Sulphur-3](./models/2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
   Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[burner22/numbat](./models/2026-11-07-numbat.md)** ([Source](https://huggingface.co/burner22/numbat))  
   numbat is a machine learning tasks model from burner22. training run. numbat is the codename referenced in the Claude Code
-
-* **[ccore/Qwen3.5-4B-3D-Coder](./models/2026-11-06-qwen3-5-4b-3d-coder.md)** ([Source](https://huggingface.co/ccore/Qwen3.5-4B-3D-Coder))  
-  Qwen3.5-4B-3D-Coder is a machine learning tasks model from ccore. This is an independent fine-tune by CCORE, based on Qwen/Qwen3.5-4B. It is not an official Qwen release.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->11<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->12<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
