@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **14** models.
+Total indexed: **15** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **14** models.
 
 * **[webAI-Official/TwIL-8B](./2026-11-10-twil-8b.md)** ([Source](https://huggingface.co/webAI-Official/TwIL-8B))  
   TwIL-8B is a text generation model from webAI-Official. TwIL-8B leads three rows outright (MATH-500, AIME 2025 and LiveCodeBench †). It is the strongest
+
+* **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](./2026-11-10-nvidia-nemotron-3-5-transcribe-30b-a4b.md)** ([Source](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B))  
+  NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a speech recognition model from nvidia. NVIDIA Nemotron-3.5-Transcribe is an offline speech and audio model that processes recordings, together with text instructions and optional context, into text responses.
 
 * **[DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](./2026-11-09-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensor.md)** ([Source](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF))  
   Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF is a multimodal image and text understanding model from DavidAU. In otherwords while "reg" Qwen3.8 27B is thinking about "formatting" for a few 1000 tokens, this model is already done and waiting for more.
