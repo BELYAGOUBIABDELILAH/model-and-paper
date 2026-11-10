@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **13** papers.
+Total indexed: **14** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](./2026-11-10-learning-heterogeneous-tactile-representation-for-general-de.md)** ([Source](https://huggingface.co/papers/2611.12806))  
+  Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data.
 
 * **[Video-Coder: Reinforcing Agentic Coding for Video Generation](./2026-11-09-video-coder-reinforcing-agentic-coding-for-video-generation.md)** ([Source](https://huggingface.co/papers/2611.09894))  
   Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals to downstream vi...
