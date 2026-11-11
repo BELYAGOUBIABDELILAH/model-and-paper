@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-14%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-15%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-16%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[MiniMaxAI/MiniMax-H3-Image](./models/2026-11-11-minimax-h3-image.md)** ([Source](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image))  
+  MiniMax-H3-Image is a text-to-image generation model from MiniMaxAI. and developers a flexible and controllable way to create images.
+
 * **[webAI-Official/TwIL-8B](./models/2026-11-10-twil-8b.md)** ([Source](https://huggingface.co/webAI-Official/TwIL-8B))  
   TwIL-8B is a text generation model from webAI-Official. TwIL-8B leads three rows outright (MATH-500, AIME 2025 and LiveCodeBench †). It is the strongest
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[NousResearch/Arete-27B](./models/2026-11-09-arete-27b.md)** ([Source](https://huggingface.co/NousResearch/Arete-27B))  
   Arete-27B is a text generation model from NousResearch. The blog post announces publication of the training dataset. See the blog post for release links; the linked PropagandaEval dataset is the held-out evaluation, not the training dataset.
-
-* **[FusionCow/Sulphur-3](./models/2026-11-08-sulphur-3.md)** ([Source](https://huggingface.co/FusionCow/Sulphur-3))  
-  Sulphur-3 is a machine learning tasks model from FusionCow. Access to model FusionCow/Sulphur-3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->15<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->16<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

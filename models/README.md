@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **15** models.
+Total indexed: **16** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[MiniMaxAI/MiniMax-H3-Image](./2026-11-11-minimax-h3-image.md)** ([Source](https://huggingface.co/MiniMaxAI/MiniMax-H3-Image))  
+  MiniMax-H3-Image is a text-to-image generation model from MiniMaxAI. and developers a flexible and controllable way to create images.
 
 * **[webAI-Official/TwIL-8B](./2026-11-10-twil-8b.md)** ([Source](https://huggingface.co/webAI-Official/TwIL-8B))  
   TwIL-8B is a text generation model from webAI-Official. TwIL-8B leads three rows outright (MATH-500, AIME 2025 and LiveCodeBench †). It is the strongest
