@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **14** papers.
+Total indexed: **15** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents](./2026-11-11-don-t-just-trust-your-memory-evidence-linked-memory-reduces.md)** ([Source](https://huggingface.co/papers/2611.14320))  
+  External memory enables LLM agents to improve from experience by distilling trajectories of past tasks into concise lessons for new tasks. However, memory can also lead to memory-induced degradation, where an agent fails on tasks it would solve without memory, often because it follows a lesson that is incorrect, or misapplies or misreads a valid one. This is because lessons are inferred from trajectories labeled only with task success or failure, yet are typically provided without the trajectories they came from...
 
 * **[Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](./2026-11-10-learning-heterogeneous-tactile-representation-for-general-de.md)** ([Source](https://huggingface.co/papers/2611.12806))  
   Tactile sensing is an indispensable modality for contact-rich dexterous manipulation, a capability that hints at the ultimate frontiers of embodied intelligence. However, commercially available tactile sensors are still at a relatively early stage of development, with each type of sensor offering irreplaceable strengths alongside its own drawbacks. A key challenge is thus to free tactile understanding from sensor-specific physics, so that embodied models can effectively leverage heterogeneous tactile data.
