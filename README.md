@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-16%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-17%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-18%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -37,6 +37,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Research Papers
 
 <!-- PAPERS:START -->
+* **[Few-Step Streaming Video Generation via Condition Shifting](./papers/2026-11-12-few-step-streaming-video-generation-via-condition-shifting.md)** ([Source](https://huggingface.co/papers/2611.14033))  
+  Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator.
+
 * **[Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](./papers/2026-11-11-tree-ising-repairing-language-models-with-bit-level-ising-ed.md)** ([Source](https://huggingface.co/papers/2611.14210))  
   Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights.
 
@@ -48,12 +51,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Video-Coder: Reinforcing Agentic Coding for Video Generation](./papers/2026-11-09-video-coder-reinforcing-agentic-coding-for-video-generation.md)** ([Source](https://huggingface.co/papers/2611.09894))  
   Recent years have witnessed remarkable progress in video generation in terms of visual quality and temporal consistency. However, generating videos with precise spatial structure, coherent motion dynamics, and controllable scene composition remains challenging. In this paper, we introduce Video-Coder, the first attempt to train a code-driven video generation agent, which autonomously writes and executes code to construct a dynamic 3D scene (Draft Video) that provides structure and motion signals to downstream vi...
-
-* **[SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes](./papers/2026-11-09-splatanything-gaussian-spacing-normalization-for-feed-forwar.md)** ([Source](https://huggingface.co/papers/2611.08264))  
-  We identify a key limitation of existing feed-forward 3DGS methods: Gaussian attributes are typically predicted in a radial-distance-normalized space that canonicalizes a global radial statistic of the reconstructed geometry, while the spacing between neighboring Gaussian centers can still vary substantially across scene scales and camera configurations. This mismatch induces systematic shifts in Gaussian-scale targets, leading to ambiguous supervision. To address this, we propose SplatAnything with Gaussian Spa...
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->16<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->17<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 

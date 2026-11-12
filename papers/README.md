@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **16** papers.
+Total indexed: **17** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Few-Step Streaming Video Generation via Condition Shifting](./2026-11-12-few-step-streaming-video-generation-via-condition-shifting.md)** ([Source](https://huggingface.co/papers/2611.14033))  
+  Few-step sampling reduces the cost of streaming video generation. Distribution Matching Distillation (DMD) supervises few-step generators with a separate fake-score network, which adds training memory and computation and must track the evolving generator. We extend APEX to streaming video by using condition shifting to estimate the velocity field of the generated distribution within the generator.
 
 * **[Tree-Ising: Repairing Language Models with Bit-Level Ising Edits](./2026-11-11-tree-ising-repairing-language-models-with-bit-level-ising-ed.md)** ([Source](https://huggingface.co/papers/2611.14210))  
   Weight-space programming, introduced in recent MIT work by Takehi et al., enables a frontier LLM agent to read a network's weights and write a repair. Their GPT-6 Astra agent corrected the reasoning loops of Qwen3.5-0.8B without gradients, using 158 agent turns, 89.7 million tokens, and 50 forward-pass requests. Our method, Tree-Ising, casts this repair as a sparse discrete optimization problem over the model's own BF16 weights.
