@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-17%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-18%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-19%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[Comfy-Org/MiniMax-H3-Image](./models/2026-11-12-minimax-h3-image.md)** ([Source](https://huggingface.co/Comfy-Org/MiniMax-H3-Image))  
   MiniMax-H3-Image is a text-to-image generation model from Comfy-Org. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node.
 
+* **[VideoRebirthAI/hyperflow-h3-flash](./models/2026-11-12-hyperflow-h3-flash.md)** ([Source](https://huggingface.co/VideoRebirthAI/hyperflow-h3-flash))  
+  hyperflow-h3-flash is a image text to video model from VideoRebirthAI. The transformer weights in this repository (both INT8 convrot and GGUF) are a Model Derivative of MiniMax-H3 and are distributed under the MiniMax H3 Community License Agreement with no additional terms. By downloading or using them, you accept that Agreement:
+
 * **[Viggle/Viggle-Remake](./models/2026-11-11-viggle-remake.md)** ([Source](https://huggingface.co/Viggle/Viggle-Remake))  
   Viggle-Remake is a video to video model from Viggle. Viggle Remake is built agent-first. Give an agent (Claude Code, codex, anything that speaks MCP) a video and one
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[webAI-Official/TwIL-8B](./models/2026-11-10-twil-8b.md)** ([Source](https://huggingface.co/webAI-Official/TwIL-8B))  
   TwIL-8B is a text generation model from webAI-Official. TwIL-8B leads three rows outright (MATH-500, AIME 2025 and LiveCodeBench †). It is the strongest
-
-* **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](./models/2026-11-10-nvidia-nemotron-3-5-transcribe-30b-a4b.md)** ([Source](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B))  
-  NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a speech recognition model from nvidia. NVIDIA Nemotron-3.5-Transcribe is an offline speech and audio model that processes recordings, together with text instructions and optional context, into text responses.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->18<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->19<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
