@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-16%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-17%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-18%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[Comfy-Org/MiniMax-H3-Image](./models/2026-11-12-minimax-h3-image.md)** ([Source](https://huggingface.co/Comfy-Org/MiniMax-H3-Image))  
+  MiniMax-H3-Image is a text-to-image generation model from Comfy-Org. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node.
+
 * **[Viggle/Viggle-Remake](./models/2026-11-11-viggle-remake.md)** ([Source](https://huggingface.co/Viggle/Viggle-Remake))  
   Viggle-Remake is a video to video model from Viggle. Viggle Remake is built agent-first. Give an agent (Claude Code, codex, anything that speaks MCP) a video and one
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B](./models/2026-11-10-nvidia-nemotron-3-5-transcribe-30b-a4b.md)** ([Source](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B))  
   NVIDIA-Nemotron-3.5-Transcribe-30B-A4B is a speech recognition model from nvidia. NVIDIA Nemotron-3.5-Transcribe is an offline speech and audio model that processes recordings, together with text instructions and optional context, into text responses.
-
-* **[DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF](./models/2026-11-09-qwen3-8-27b-turbo-fable-cold-fusion-735-882-heretic-uncensor.md)** ([Source](https://huggingface.co/DavidAU/Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF))  
-  Qwen3.8-27B-TURBO-Fable-Cold-Fusion-735-882-Heretic-Uncensored-NEO-CODER-MAX-MTP-GGUF is a multimodal image and text understanding model from DavidAU. In otherwords while "reg" Qwen3.8 27B is thinking about "formatting" for a few 1000 tokens, this model is already done and waiting for more.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->17<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->18<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

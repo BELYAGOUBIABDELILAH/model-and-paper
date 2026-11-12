@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **17** models.
+Total indexed: **18** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Comfy-Org/MiniMax-H3-Image](./2026-11-12-minimax-h3-image.md)** ([Source](https://huggingface.co/Comfy-Org/MiniMax-H3-Image))  
+  MiniMax-H3-Image is a text-to-image generation model from Comfy-Org. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node.
 
 * **[Viggle/Viggle-Remake](./2026-11-11-viggle-remake.md)** ([Source](https://huggingface.co/Viggle/Viggle-Remake))  
   Viggle-Remake is a video to video model from Viggle. Viggle Remake is built agent-first. Give an agent (Claude Code, codex, anything that speaks MCP) a video and one
