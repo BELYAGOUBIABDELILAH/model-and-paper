@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **19** models.
+Total indexed: **20** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Zyphra/ZONOS3-Mini](./2026-11-13-zonos3-mini.md)** ([Source](https://huggingface.co/Zyphra/ZONOS3-Mini))  
+  ZONOS3-Mini is a speech synthesis model from Zyphra. cloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.
 
 * **[Comfy-Org/MiniMax-H3-Image](./2026-11-12-minimax-h3-image.md)** ([Source](https://huggingface.co/Comfy-Org/MiniMax-H3-Image))  
   MiniMax-H3-Image is a text-to-image generation model from Comfy-Org. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node.
