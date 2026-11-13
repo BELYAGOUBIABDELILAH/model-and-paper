@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **19** papers.
+Total indexed: **20** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **19** papers.
 
 * **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](./2026-11-13-so-arena-benchmarking-the-capability-spectrum-and-reliabilit.md)** ([Source](https://huggingface.co/papers/2611.15777))  
   System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
+
+* **[PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models](./2026-11-13-physloop-harnessing-llms-physics-awareness-for-self-improvin.md)** ([Source](https://huggingface.co/papers/2611.16748))  
+  Video generation models produce visually realistic videos but still struggle with physical dynamics and causal consistency. Learning from generated videos requires fine-grained physical supervision, yet reliable quality judgments, correction pairs, and controlled variations are difficult to obtain. Large language models (LLMs) possess physical knowledge, but struggle to reliably guide video generation models in producing their training videos.
 
 * **[MMDM: Measuring Massive Multitask Decision Making](./2026-11-12-mmdm-measuring-massive-multitask-decision-making.md)** ([Source](https://huggingface.co/papers/2611.14309))  
   System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision making often involves long contexts, large option spaces, and complex logical dependencies, challenges that existing be...
