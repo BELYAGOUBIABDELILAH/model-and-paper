@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **18** papers.
+Total indexed: **19** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](./2026-11-13-so-arena-benchmarking-the-capability-spectrum-and-reliabilit.md)** ([Source](https://huggingface.co/papers/2611.15777))  
+  System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
 
 * **[MMDM: Measuring Massive Multitask Decision Making](./2026-11-12-mmdm-measuring-massive-multitask-decision-making.md)** ([Source](https://huggingface.co/papers/2611.14309))  
   System-1 Decision Models directly make structured probabilistic decisions over query-specified options given a state in a single forward pass, without autoregressively generating reasoning trajectories or textual responses. Recent evaluations cover diverse tasks but often rely on existing benchmarks, where prior exposure to test material can obscure generalization. Moreover, real-world decision making often involves long contexts, large option spaces, and complex logical dependencies, challenges that existing be...
