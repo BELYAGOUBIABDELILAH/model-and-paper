@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **21** papers.
+Total indexed: **22** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors](./2026-11-14-ropedia-xperience-2-a-gold-standard-for-scaling-physical-ai.md)** ([Source](https://huggingface.co/papers/2611.17060))  
+  Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments in which policies can be rolled out, evaluated, and improved in closed loop.
 
 * **[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](./2026-11-14-actor-judge-or-teacher-understanding-decision-models-in-long.md)** ([Source](https://huggingface.co/papers/2611.17167))  
   Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as actors, judging their usefulness by how well they act. We ask whether a decision model that acts poorly can still teach well.
