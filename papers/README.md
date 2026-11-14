@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **20** papers.
+Total indexed: **21** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents](./2026-11-14-actor-judge-or-teacher-understanding-decision-models-in-long.md)** ([Source](https://huggingface.co/papers/2611.17167))  
+  Decision models answer a question with a typed output, such as a choice among options with a probability for each, so one model can choose an agent's actions, evaluate actions already taken, or score every action to teach a policy with reinforcement learning. Prior work has studied them mainly as actors, judging their usefulness by how well they act. We ask whether a decision model that acts poorly can still teach well.
 
 * **[SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models](./2026-11-13-so-arena-benchmarking-the-capability-spectrum-and-reliabilit.md)** ([Source](https://huggingface.co/papers/2611.15777))  
   System One models promise fast, general-purpose decision-making without lengthy token generation. However, understanding their capability spectrum and decision reliability requires more than aggregate performance on current benchmarks. Existing evaluations often provide limited insight into the breadth of model capabilities and the reliability of their decisions.
