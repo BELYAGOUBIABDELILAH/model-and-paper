@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **22** models.
+Total indexed: **23** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[tencent/Qwen3.8-27B-DSpine-b16](./2026-11-14-qwen3-8-27b-dspine-b16.md)** ([Source](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16))  
+  Qwen3.8-27B-DSpine-b16 is a text generation model from tencent. DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth.
 
 * **[thinkingmachines/Inkling-2-Small](./2026-11-14-inkling-2-small.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Small))  
   Inkling-2-Small is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Small is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and vis...
