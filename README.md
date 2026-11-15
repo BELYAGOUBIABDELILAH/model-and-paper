@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-22%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-23%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-24%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[Edge0/Edge0-145B-NVFP4](./models/2026-11-15-edge0-145b-nvfp4.md)** ([Source](https://huggingface.co/Edge0/Edge0-145B-NVFP4))  
+  Edge0-145B-NVFP4 is a text generation model from Edge0. variables in env, with paths relative to the pack directory. That is the same file the Edge0 Chat app
+
 * **[tencent/Qwen3.8-27B-DSpine-b16](./models/2026-11-14-qwen3-8-27b-dspine-b16.md)** ([Source](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16))  
   Qwen3.8-27B-DSpine-b16 is a text generation model from tencent. DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Cactus-Compute/mirage](./models/2026-11-13-mirage.md)** ([Source](https://huggingface.co/Cactus-Compute/mirage))  
   mirage is a multimodal image and text understanding model from Cactus-Compute. The package downloads and caches the engine and weights on first use.
-
-* **[Comfy-Org/MiniMax-H3-Image](./models/2026-11-12-minimax-h3-image.md)** ([Source](https://huggingface.co/Comfy-Org/MiniMax-H3-Image))  
-  MiniMax-H3-Image is a text-to-image generation model from Comfy-Org. For prompt enhancement, we recommend to use the model qwen3.59bw4a8gptq with the Generate Text node.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->23<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->24<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

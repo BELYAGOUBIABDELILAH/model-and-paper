@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **23** models.
+Total indexed: **24** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Edge0/Edge0-145B-NVFP4](./2026-11-15-edge0-145b-nvfp4.md)** ([Source](https://huggingface.co/Edge0/Edge0-145B-NVFP4))  
+  Edge0-145B-NVFP4 is a text generation model from Edge0. variables in env, with paths relative to the pack directory. That is the same file the Edge0 Chat app
 
 * **[tencent/Qwen3.8-27B-DSpine-b16](./2026-11-14-qwen3-8-27b-dspine-b16.md)** ([Source](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16))  
   Qwen3.8-27B-DSpine-b16 is a text generation model from tencent. DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth.
