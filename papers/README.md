@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **23** papers.
+Total indexed: **24** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Unbundling Multimodal Vision Encoding](./2026-11-15-unbundling-multimodal-vision-encoding.md)** ([Source](https://huggingface.co/papers/2611.17334))  
+  How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone).
 
 * **[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](./2026-11-15-ttb-test-time-baking-for-efficient-rendering-of-decoder-only.md)** ([Source](https://huggingface.co/papers/2611.17331))  
   Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the fast-weight MLP o...
