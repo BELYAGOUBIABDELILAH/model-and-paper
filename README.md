@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-23%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-24%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-25%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[higurashi-ai/Haru-4B](./models/2026-11-15-haru-4b.md)** ([Source](https://huggingface.co/higurashi-ai/Haru-4B))  
+  Haru-4B is a audio to audio model from higurashi-ai. Haru-4B is a pretrained base model, released for research. It holds a natural conversation,
+
 * **[Edge0/Edge0-145B-NVFP4](./models/2026-11-15-edge0-145b-nvfp4.md)** ([Source](https://huggingface.co/Edge0/Edge0-145B-NVFP4))  
   Edge0-145B-NVFP4 is a text generation model from Edge0. variables in env, with paths relative to the pack directory. That is the same file the Edge0 Chat app
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Zyphra/ZONOS3-Mini](./models/2026-11-13-zonos3-mini.md)** ([Source](https://huggingface.co/Zyphra/ZONOS3-Mini))  
   ZONOS3-Mini is a speech synthesis model from Zyphra. cloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.
-
-* **[Cactus-Compute/mirage](./models/2026-11-13-mirage.md)** ([Source](https://huggingface.co/Cactus-Compute/mirage))  
-  mirage is a multimodal image and text understanding model from Cactus-Compute. The package downloads and caches the engine and weights on first use.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->24<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->25<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **24** models.
+Total indexed: **25** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[higurashi-ai/Haru-4B](./2026-11-15-haru-4b.md)** ([Source](https://huggingface.co/higurashi-ai/Haru-4B))  
+  Haru-4B is a audio to audio model from higurashi-ai. Haru-4B is a pretrained base model, released for research. It holds a natural conversation,
 
 * **[Edge0/Edge0-145B-NVFP4](./2026-11-15-edge0-145b-nvfp4.md)** ([Source](https://huggingface.co/Edge0/Edge0-145B-NVFP4))  
   Edge0-145B-NVFP4 is a text generation model from Edge0. variables in env, with paths relative to the pack directory. That is the same file the Edge0 Chat app
