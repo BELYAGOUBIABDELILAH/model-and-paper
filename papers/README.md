@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **22** papers.
+Total indexed: **23** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models](./2026-11-15-ttb-test-time-baking-for-efficient-rendering-of-decoder-only.md)** ([Source](https://huggingface.co/papers/2611.17331))  
+  Decoder-only Large View Synthesis Models (LVSMs) with KV-cache have recently achieved state-of-the-art quality by regressing novel views from neural networks without reconstructing 3D geometry, while Test-Time Training (TTT) layers save computation but sacrifice quality. We propose Test-Time Baking (TTB), a strategy that learns to bake global scene information from cross-view attention into a lightweight MLP, enabling fast and high-fidelity novel-view decoding. The first key is to repurpose the fast-weight MLP o...
 
 * **[Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors](./2026-11-14-ropedia-xperience-2-a-gold-standard-for-scaling-physical-ai.md)** ([Source](https://huggingface.co/papers/2611.17060))  
   Large foundation models such as GPT-6 Astra and Claude Fable 5.1 have recently been shown to control robots directly from visual observations. They nevertheless remain brittle on long-horizon, contact-rich tasks in real-world environments. Further progress depends on two complementary resources: demonstrations of human behavior that supervise how tasks are performed, and interactive environments in which policies can be rolled out, evaluated, and improved in closed loop.
