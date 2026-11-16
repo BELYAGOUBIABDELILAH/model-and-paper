@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **25** papers.
+Total indexed: **26** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](./2026-11-16-gamer-a-generalist-vision-language-action-foundation-model-f.md)** ([Source](https://huggingface.co/papers/2611.18397))  
+  We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds.
 
 * **[Envisioning Agentic Robotics: A New Era of Robotic Systems](./2026-11-16-envisioning-agentic-robotics-a-new-era-of-robotic-systems.md)** ([Source](https://huggingface.co/papers/2611.18359))  
   The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks.
