@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **24** papers.
+Total indexed: **25** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Envisioning Agentic Robotics: A New Era of Robotic Systems](./2026-11-16-envisioning-agentic-robotics-a-new-era-of-robotic-systems.md)** ([Source](https://huggingface.co/papers/2611.18359))  
+  The release of GPT-6 Astra marks the emergence of a new paradigm in robotics: agentic robotics. Within weeks, frontier models with agentic harnesses matched or exceeded task-specific policies on many embodied benchmarks. Instead of training a dedicated policy for each family of tasks, an agentic robotic system applies a foundation model to open-world embodied tasks.
 
 * **[Unbundling Multimodal Vision Encoding](./2026-11-15-unbundling-multimodal-vision-encoding.md)** ([Source](https://huggingface.co/papers/2611.17334))  
   How multimodal language models should encode visual input remains up for debate. Most models use a pretrained vision encoder, while some recent recipes train the encoder from scratch with the language model or remove it entirely. Vision encoders bundle together three design choices: a visual prior from upstream pretraining, dedicated vision capacity, and pre-fusion placement of that capacity (i.e., before the multimodal backbone).
