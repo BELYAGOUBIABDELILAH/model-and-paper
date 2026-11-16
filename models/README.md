@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **26** models.
+Total indexed: **27** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[facebook/sam3](./2026-11-16-sam3.md)** ([Source](https://huggingface.co/facebook/sam3))  
+  sam3 is a mask generation model from facebook. Access to model facebook/sam3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 
 * **[chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](./2026-11-16-qwen-image-2-1-uncensored-omni-quantized.md)** ([Source](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized))  
   Qwen-Image-2.1-Uncensored-Omni-Quantized is a text-to-image generation model from chatrlabs. QwenImage21Cache and INT8 ConvRot text-encoder support. All nine nodes in this workflow are built into
