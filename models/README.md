@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **25** models.
+Total indexed: **26** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](./2026-11-16-qwen-image-2-1-uncensored-omni-quantized.md)** ([Source](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized))  
+  Qwen-Image-2.1-Uncensored-Omni-Quantized is a text-to-image generation model from chatrlabs. QwenImage21Cache and INT8 ConvRot text-encoder support. All nine nodes in this workflow are built into
 
 * **[higurashi-ai/Haru-4B](./2026-11-15-haru-4b.md)** ([Source](https://huggingface.co/higurashi-ai/Haru-4B))  
   Haru-4B is a audio to audio model from higurashi-ai. Haru-4B is a pretrained base model, released for research. It holds a natural conversation,

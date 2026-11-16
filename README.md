@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-24%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-25%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-26%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](./models/2026-11-16-qwen-image-2-1-uncensored-omni-quantized.md)** ([Source](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized))  
+  Qwen-Image-2.1-Uncensored-Omni-Quantized is a text-to-image generation model from chatrlabs. QwenImage21Cache and INT8 ConvRot text-encoder support. All nine nodes in this workflow are built into
+
 * **[higurashi-ai/Haru-4B](./models/2026-11-15-haru-4b.md)** ([Source](https://huggingface.co/higurashi-ai/Haru-4B))  
   Haru-4B is a audio to audio model from higurashi-ai. Haru-4B is a pretrained base model, released for research. It holds a natural conversation,
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[thinkingmachines/Inkling-2-Small](./models/2026-11-14-inkling-2-small.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Small))  
   Inkling-2-Small is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Small is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and vis...
-
-* **[Zyphra/ZONOS3-Mini](./models/2026-11-13-zonos3-mini.md)** ([Source](https://huggingface.co/Zyphra/ZONOS3-Mini))  
-  ZONOS3-Mini is a speech synthesis model from Zyphra. cloning with just 100 million active parameters. It runs in real time on phones and laptops, including directly in the browser.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->25<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->26<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
