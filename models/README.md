@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **27** models.
+Total indexed: **28** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Abiray/MiniMax-H3-Image-GGUF](./2026-11-17-minimax-h3-image-gguf.md)** ([Source](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF))  
+  MiniMax-H3-Image-GGUF is a text-to-image generation model from Abiray. MiniMax-H3-Image is a state-of-the-art 33.1B parameter single-stream Diffusion Transformer (DiT) designed for ultra-high-resolution text-to-image generation and multi-reference image editing (up to 16 MP / 4096 × 4096) in just 6 distilled sampling steps.
 
 * **[facebook/sam3](./2026-11-16-sam3.md)** ([Source](https://huggingface.co/facebook/sam3))  
   sam3 is a mask generation model from facebook. Access to model facebook/sam3 is restricted. You must have access to it and be authenticated to access it. Please log in.

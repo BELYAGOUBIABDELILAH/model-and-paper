@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-26%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-27%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-28%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[Abiray/MiniMax-H3-Image-GGUF](./models/2026-11-17-minimax-h3-image-gguf.md)** ([Source](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF))  
+  MiniMax-H3-Image-GGUF is a text-to-image generation model from Abiray. MiniMax-H3-Image is a state-of-the-art 33.1B parameter single-stream Diffusion Transformer (DiT) designed for ultra-high-resolution text-to-image generation and multi-reference image editing (up to 16 MP / 4096 × 4096) in just 6 distilled sampling steps.
+
 * **[facebook/sam3](./models/2026-11-16-sam3.md)** ([Source](https://huggingface.co/facebook/sam3))  
   sam3 is a mask generation model from facebook. Access to model facebook/sam3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Edge0/Edge0-145B-NVFP4](./models/2026-11-15-edge0-145b-nvfp4.md)** ([Source](https://huggingface.co/Edge0/Edge0-145B-NVFP4))  
   Edge0-145B-NVFP4 is a text generation model from Edge0. variables in env, with paths relative to the pack directory. That is the same file the Edge0 Chat app
-
-* **[tencent/Qwen3.8-27B-DSpine-b16](./models/2026-11-14-qwen3-8-27b-dspine-b16.md)** ([Source](https://huggingface.co/tencent/Qwen3.8-27B-DSpine-b16))  
-  Qwen3.8-27B-DSpine-b16 is a text generation model from tencent. DSpine generates draft tokens in parallel. Each layer passes predicted predecessor features to adjacent positions, carrying causal dependencies through network depth.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->27<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->28<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
