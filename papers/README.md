@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **26** papers.
+Total indexed: **27** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](./2026-11-17-allocflow-end-to-end-portfolio-trading-action-generation-fro.md)** ([Source](https://huggingface.co/papers/2611.19937))  
+  Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives.
 
 * **[Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent](./2026-11-16-gamer-a-generalist-vision-language-action-foundation-model-f.md)** ([Source](https://huggingface.co/papers/2611.18397))  
   We introduce Gamer, a generalist agent framework built for long-horizon tasks in complex interactive environments. Its end-to-end architecture combines perception, memory management, and multi-step reasoning. A shared training and deployment pipeline supports interaction with both conventional 2D graphical interfaces and complex 3D simulated worlds.
