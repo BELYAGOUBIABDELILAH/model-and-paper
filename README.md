@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-28%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-29%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-30%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[sensenova/SenseNova-Loop-9B](./models/2026-11-18-sensenova-loop-9b.md)** ([Source](https://huggingface.co/sensenova/SenseNova-Loop-9B))  
   SenseNova-Loop-9B is a multimodal image and text understanding model from sensenova. Access to model sensenova/SenseNova-Loop-9B is restricted. You must have access to it and be authenticated to access it. Please log in.
 
+* **[harness-hub/Qwen3.8-27B-pi-adapted](./models/2026-11-18-qwen3-8-27b-pi-adapted.md)** ([Source](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted))  
+  Qwen3.8-27B-pi-adapted is a multimodal image and text understanding model from harness-hub. On Terminal-Bench 2.1 the four runs are compared on the 83 tasks all of them graded, so the base model and adapter scores differ slightly from the paired results below, which use the 86 tasks those two graded. "Thinking" is the chat template's
+
 * **[Abiray/MiniMax-H3-Image-GGUF](./models/2026-11-17-minimax-h3-image-gguf.md)** ([Source](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF))  
   MiniMax-H3-Image-GGUF is a text-to-image generation model from Abiray. MiniMax-H3-Image is a state-of-the-art 33.1B parameter single-stream Diffusion Transformer (DiT) designed for ultra-high-resolution text-to-image generation and multi-reference image editing (up to 16 MP / 4096 × 4096) in just 6 distilled sampling steps.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized](./models/2026-11-16-qwen-image-2-1-uncensored-omni-quantized.md)** ([Source](https://huggingface.co/chatrlabs/Qwen-Image-2.1-Uncensored-Omni-Quantized))  
   Qwen-Image-2.1-Uncensored-Omni-Quantized is a text-to-image generation model from chatrlabs. QwenImage21Cache and INT8 ConvRot text-encoder support. All nine nodes in this workflow are built into
-
-* **[higurashi-ai/Haru-4B](./models/2026-11-15-haru-4b.md)** ([Source](https://huggingface.co/higurashi-ai/Haru-4B))  
-  Haru-4B is a audio to audio model from higurashi-ai. Haru-4B is a pretrained base model, released for research. It holds a natural conversation,
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->29<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->30<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
