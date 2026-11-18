@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **28** models.
+Total indexed: **29** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[sensenova/SenseNova-Loop-9B](./2026-11-18-sensenova-loop-9b.md)** ([Source](https://huggingface.co/sensenova/SenseNova-Loop-9B))  
+  SenseNova-Loop-9B is a multimodal image and text understanding model from sensenova. Access to model sensenova/SenseNova-Loop-9B is restricted. You must have access to it and be authenticated to access it. Please log in.
 
 * **[Abiray/MiniMax-H3-Image-GGUF](./2026-11-17-minimax-h3-image-gguf.md)** ([Source](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF))  
   MiniMax-H3-Image-GGUF is a text-to-image generation model from Abiray. MiniMax-H3-Image is a state-of-the-art 33.1B parameter single-stream Diffusion Transformer (DiT) designed for ultra-high-resolution text-to-image generation and multi-reference image editing (up to 16 MP / 4096 × 4096) in just 6 distilled sampling steps.
