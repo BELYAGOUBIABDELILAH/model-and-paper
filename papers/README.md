@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **27** papers.
+Total indexed: **28** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](./2026-11-18-telechat-to-xing4-advancing-frontier-agentic-models-on-domes.md)** ([Source](https://huggingface.co/papers/2611.22115))  
+  We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access,...
 
 * **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](./2026-11-17-allocflow-end-to-end-portfolio-trading-action-generation-fro.md)** ([Source](https://huggingface.co/papers/2611.19937))  
   Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives.
