@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **31** models.
+Total indexed: **32** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **31** models.
 
 * **[tencent/Hy4-flash](./2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.
+
+* **[apple/FastFrames-L](./2026-11-19-fastframes-l.md)** ([Source](https://huggingface.co/apple/FastFrames-L))  
+  FastFrames-L is a text-to-video generation model from apple. latency. We also release an optimized version of LingBot 1.3B that is 16x faster than the
 
 * **[sensenova/SenseNova-Loop-9B](./2026-11-18-sensenova-loop-9b.md)** ([Source](https://huggingface.co/sensenova/SenseNova-Loop-9B))  
   SenseNova-Loop-9B is a multimodal image and text understanding model from sensenova. Access to model sensenova/SenseNova-Loop-9B is restricted. You must have access to it and be authenticated to access it. Please log in.

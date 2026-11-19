@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-30%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-31%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-32%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[tencent/Hy4-flash](./models/2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.
 
+* **[apple/FastFrames-L](./models/2026-11-19-fastframes-l.md)** ([Source](https://huggingface.co/apple/FastFrames-L))  
+  FastFrames-L is a text-to-video generation model from apple. latency. We also release an optimized version of LingBot 1.3B that is 16x faster than the
+
 * **[sensenova/SenseNova-Loop-9B](./models/2026-11-18-sensenova-loop-9b.md)** ([Source](https://huggingface.co/sensenova/SenseNova-Loop-9B))  
   SenseNova-Loop-9B is a multimodal image and text understanding model from sensenova. Access to model sensenova/SenseNova-Loop-9B is restricted. You must have access to it and be authenticated to access it. Please log in.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Abiray/MiniMax-H3-Image-GGUF](./models/2026-11-17-minimax-h3-image-gguf.md)** ([Source](https://huggingface.co/Abiray/MiniMax-H3-Image-GGUF))  
   MiniMax-H3-Image-GGUF is a text-to-image generation model from Abiray. MiniMax-H3-Image is a state-of-the-art 33.1B parameter single-stream Diffusion Transformer (DiT) designed for ultra-high-resolution text-to-image generation and multi-reference image editing (up to 16 MP / 4096 × 4096) in just 6 distilled sampling steps.
-
-* **[facebook/sam3](./models/2026-11-16-sam3.md)** ([Source](https://huggingface.co/facebook/sam3))  
-  sam3 is a mask generation model from facebook. Access to model facebook/sam3 is restricted. You must have access to it and be authenticated to access it. Please log in.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->31<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->32<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
