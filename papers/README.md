@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **30** papers.
+Total indexed: **31** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **30** papers.
 
 * **[Jeveration: System One Models Now Generate](./2026-11-19-jeveration-system-one-models-now-generate.md)** ([Source](https://huggingface.co/papers/2611.24738))  
   System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation.
+
+* **[Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development](./2026-11-19-game2player-scaling-gameplay-experience-for-visual-agents-th.md)** ([Source](https://huggingface.co/papers/2611.24154))  
+  Games are a rich testbed for visual agents, demanding perception, long-horizon planning, and precise control. However, collecting human gameplay is costly, and learning from gameplay videos requires inferring missing actions. Existing datasets also cover a limited range of games, often without explicit tasks or verifiable outcomes.
 
 * **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](./2026-11-18-telechat-to-xing4-advancing-frontier-agentic-models-on-domes.md)** ([Source](https://huggingface.co/papers/2611.22115))  
   We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access,...
