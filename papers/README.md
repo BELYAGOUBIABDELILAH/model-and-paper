@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **29** papers.
+Total indexed: **30** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Jeveration: System One Models Now Generate](./2026-11-19-jeveration-system-one-models-now-generate.md)** ([Source](https://huggingface.co/papers/2611.24738))  
+  System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation.
 
 * **[TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks](./2026-11-18-telechat-to-xing4-advancing-frontier-agentic-models-on-domes.md)** ([Source](https://huggingface.co/papers/2611.22115))  
   We present Xing 4, a series of large language models that extends the TeleChat lineage through coordinated advances in model architecture and training infrastructure on Ascend. This report describes the design principles and systems engineering behind the series, spanning architecture selection, large-scale pretraining, and reasoning and agentic post-training. We study how sparse activation, attention design, model depth and width, and speculative decoding balance model capacity with computation, memory access,...
