@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **32** papers.
+Total indexed: **33** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](./2026-11-20-wemm-video-pushing-the-frontiers-of-open-source-omni-modal-v.md)** ([Source](https://huggingface.co/papers/2611.26409))  
+  Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking...
 
 * **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](./2026-11-20-mind2act-world-a-diagnostic-benchmark-for-embodied-mind-phys.md)** ([Source](https://huggingface.co/papers/2611.26444))  
   Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from r...
