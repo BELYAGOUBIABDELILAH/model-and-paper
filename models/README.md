@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **32** models.
+Total indexed: **33** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[inworld/voice-isolator](./2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
+  voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
 
 * **[tencent/Hy4-flash](./2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.
