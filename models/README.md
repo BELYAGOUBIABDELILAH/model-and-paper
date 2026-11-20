@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **33** models.
+Total indexed: **34** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **33** models.
 
 * **[inworld/voice-isolator](./2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
   voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
+
+* **[nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](./2026-11-20-nvidia-nemotron-3-5-bolt-e4b-4gb.md)** ([Source](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB))  
+  NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a text generation model from nvidia. NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a small language model (SLM) further post-trained from Gemma-4-E4B-it by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma’s strong conversational capabilities and further improves multi-turn tool use, instruction following, and input grounding for fast local voice/device assistants, interactive personas, and embedded/edge interfaces. Designed for low-memory, low-TTFT operation, the model allows agents to respond quickly while preserving headroom for applications or adjacent...
 
 * **[tencent/Hy4-flash](./2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.

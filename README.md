@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-32%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-33%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-34%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[inworld/voice-isolator](./models/2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
   voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
 
+* **[nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB](./models/2026-11-20-nvidia-nemotron-3-5-bolt-e4b-4gb.md)** ([Source](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB))  
+  NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a text generation model from nvidia. NVIDIA-Nemotron-3.5-Bolt-E4B-4GB is a small language model (SLM) further post-trained from Gemma-4-E4B-it by NVIDIA. Nemotron-3.5-Bolt-E4B carries forward Gemma’s strong conversational capabilities and further improves multi-turn tool use, instruction following, and input grounding for fast local voice/device assistants, interactive personas, and embedded/edge interfaces. Designed for low-memory, low-TTFT operation, the model allows agents to respond quickly while preserving headroom for applications or adjacent...
+
 * **[tencent/Hy4-flash](./models/2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[sensenova/SenseNova-Loop-9B](./models/2026-11-18-sensenova-loop-9b.md)** ([Source](https://huggingface.co/sensenova/SenseNova-Loop-9B))  
   SenseNova-Loop-9B is a multimodal image and text understanding model from sensenova. Access to model sensenova/SenseNova-Loop-9B is restricted. You must have access to it and be authenticated to access it. Please log in.
-
-* **[harness-hub/Qwen3.8-27B-pi-adapted](./models/2026-11-18-qwen3-8-27b-pi-adapted.md)** ([Source](https://huggingface.co/harness-hub/Qwen3.8-27B-pi-adapted))  
-  Qwen3.8-27B-pi-adapted is a multimodal image and text understanding model from harness-hub. On Terminal-Bench 2.1 the four runs are compared on the 83 tasks all of them graded, so the base model and adapter scores differ slightly from the paired results below, which use the 86 tasks those two graded. "Thinking" is the chat template's
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->33<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->34<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
