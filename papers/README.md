@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **31** papers.
+Total indexed: **32** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](./2026-11-20-mind2act-world-a-diagnostic-benchmark-for-embodied-mind-phys.md)** ([Source](https://huggingface.co/papers/2611.26444))  
+  Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from r...
 
 * **[Jeveration: System One Models Now Generate](./2026-11-19-jeveration-system-one-models-now-generate.md)** ([Source](https://huggingface.co/papers/2611.24738))  
   System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation.

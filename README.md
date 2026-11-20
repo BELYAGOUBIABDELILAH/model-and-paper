@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-31%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-32%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-33%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -37,6 +37,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Research Papers
 
 <!-- PAPERS:START -->
+* **[Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation](./papers/2026-11-20-mind2act-world-a-diagnostic-benchmark-for-embodied-mind-phys.md)** ([Source](https://huggingface.co/papers/2611.26444))  
+  Embodied intelligence aims to let robots perform complex physical tasks with human-like adaptability and reliability, which requires three complementary capabilities: history-based cognitive reasoning, precise and timely physical execution, and the composition of reasoning and execution through environmental feedback. Yet existing benchmarks either evaluate reasoning and execution within the same tasks or assess them separately without their composition, so they reveal little about whether a failure comes from r...
+
 * **[Jeveration: System One Models Now Generate](./papers/2026-11-19-jeveration-system-one-models-now-generate.md)** ([Source](https://huggingface.co/papers/2611.24738))  
   System One models such as Jev return decisions through fast, parallel prediction. In this paper, we introduce Jeveration, showing that the same decision paradigm can also generate high-quality images in a single forward pass. Jeveration builds on a frozen vision-language model, repurposing its visual-semantic knowledge for holistic image generation.
 
@@ -48,12 +51,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation](./papers/2026-11-18-tcp4d-a-unified-tool-center-point-tracking-and-generation-mo.md)** ([Source](https://huggingface.co/papers/2611.23143))  
   Robot manipulation videos provide a rich visual experience, yet recovering robot action and gripper-state annotations from RGB observations still remains challenging. Using the embodiment-agnostic tool-center-point (TCP) pose as the action space, we present TCP4D, a unified model in which a shared 4D scene representation both tracks observed TCP motion and generates future TCP trajectories. Given a monocular video and initial 2D TCP queries, the tracker directly recovers metric TCP poses in SE(3) and gripper sta...
-
-* **[AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data](./papers/2026-11-17-allocflow-end-to-end-portfolio-trading-action-generation-fro.md)** ([Source](https://huggingface.co/papers/2611.19937))  
-  Real-world portfolio management requires converting noisy market observations into coordinated, simultaneous allocations across multiple assets under shared capital constraints. Advances in forecasting models and alpha discovery help identify opportunities. However, traditional pipelines often decouple signal forecasting from portfolio construction, potentially misaligning learning with allocation and execution objectives.
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->31<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->32<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 
