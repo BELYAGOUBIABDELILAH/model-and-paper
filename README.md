@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-34%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-35%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-36%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[thinkingmachines/Inkling-2-Mini](./models/2026-11-21-inkling-2-mini.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Mini))  
   Inkling-2-Mini is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
 
+* **[Sentinel7/h3](./models/2026-11-21-h3.md)** ([Source](https://huggingface.co/Sentinel7/h3))  
+  h3 is a machine learning tasks model from Sentinel7. It handles machine learning tasks. See the model card for full details on architecture, usage, and benchmarks.
+
 * **[inworld/voice-isolator](./models/2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
   voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[tencent/Hy4-flash](./models/2026-11-19-hy4-flash.md)** ([Source](https://huggingface.co/tencent/Hy4-flash))  
   Hy4-flash is a multimodal image and text understanding model from tencent. Hy4 flash-base is a pre-trained base model, not an instruction-tuned chat model. The chat and reasoning examples below apply to Hy4 flash and Hy4 flash-FP8.
-
-* **[apple/FastFrames-L](./models/2026-11-19-fastframes-l.md)** ([Source](https://huggingface.co/apple/FastFrames-L))  
-  FastFrames-L is a text-to-video generation model from apple. latency. We also release an optimized version of LingBot 1.3B that is 16x faster than the
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->35<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->36<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

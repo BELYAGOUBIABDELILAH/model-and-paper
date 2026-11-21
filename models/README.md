@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **35** models.
+Total indexed: **36** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **35** models.
 
 * **[thinkingmachines/Inkling-2-Mini](./2026-11-21-inkling-2-mini.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Mini))  
   Inkling-2-Mini is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
+
+* **[Sentinel7/h3](./2026-11-21-h3.md)** ([Source](https://huggingface.co/Sentinel7/h3))  
+  h3 is a machine learning tasks model from Sentinel7. It handles machine learning tasks. See the model card for full details on architecture, usage, and benchmarks.
 
 * **[inworld/voice-isolator](./2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
   voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
