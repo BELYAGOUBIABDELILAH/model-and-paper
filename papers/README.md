@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **34** papers.
+Total indexed: **35** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **34** papers.
 
 * **[Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](./2026-11-21-probing-the-conscious-mind-selective-access-and-global-works.md)** ([Source](https://huggingface.co/papers/2611.26590))  
   Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing.
+
+* **[Posterior Matching Distillation](./2026-11-21-posterior-matching-distillation.md)** ([Source](https://huggingface.co/papers/2611.26629))  
+  Diffusion distillation accelerates image and video generation by compressing a pretrained teacher's iterative sampling process into a few network evaluations. Distribution-based methods achieve this by matching the student's output distribution to the teacher's. This matching is often driven by reverse-KL objectives, whose mode-seeking bias favors dominant teacher modes at the expense of diversity across samples.
 
 * **[WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding](./2026-11-20-wemm-video-pushing-the-frontiers-of-open-source-omni-modal-v.md)** ([Source](https://huggingface.co/papers/2611.26409))  
   Video understanding, particularly with accompanying audio, remains a central challenge in multimodal intelligence. In this report, we introduce WeMM-Video, a family of Chinese-English bilingual omni-modal foundation models spanning 2B, 4B, 9B, and 35B-A3B variants. Centering on joint audio-visual perception and reasoning, WeMM-Video unifies text, image, audio, and video processing within a hybrid-thinking paradigm, seamlessly supporting both a non-thinking instruct mode for fast, direct responses and a thinking...
