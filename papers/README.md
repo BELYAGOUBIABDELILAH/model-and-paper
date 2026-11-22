@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **35** papers.
+Total indexed: **36** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Coda-DaVinci: Reimagining Video Generation with Code2Video](./2026-11-22-coda-davinci-reimagining-video-generation-with-code2video.md)** ([Source](https://huggingface.co/papers/2611.26595))  
+  Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting.
 
 * **[Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](./2026-11-21-probing-the-conscious-mind-selective-access-and-global-works.md)** ([Source](https://huggingface.co/papers/2611.26590))  
   Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing.
