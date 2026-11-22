@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **36** models.
+Total indexed: **37** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[unsloth/Inkling-2-Mini-GGUF](./2026-11-22-inkling-2-mini-gguf.md)** ([Source](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF))  
+  Inkling-2-Mini-GGUF is a multimodal image and text understanding model from unsloth. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
 
 * **[thinkingmachines/Inkling-2-Mini](./2026-11-21-inkling-2-mini.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Mini))  
   Inkling-2-Mini is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
