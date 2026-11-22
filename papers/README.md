@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **36** papers.
+Total indexed: **37** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](./2026-11-22-depth-pro-2-sharp-and-temporally-consistent-metric-monocular.md)** ([Source](https://huggingface.co/papers/2611.26603))  
+  We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution.
 
 * **[Coda-DaVinci: Reimagining Video Generation with Code2Video](./2026-11-22-coda-davinci-reimagining-video-generation-with-code2video.md)** ([Source](https://huggingface.co/papers/2611.26595))  
   Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting.
