@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-37%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-38%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-39%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[apple/DepthPro2](./models/2026-11-23-depthpro2.md)** ([Source](https://huggingface.co/apple/DepthPro2))  
+  DepthPro2 is a depth estimation model from apple. whole video, or a live feed, at the input's full resolution. Its depth is sharp at object edges
+
 * **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](./models/2026-11-22-inkling-2-mini-uncensored-gguf.md)** ([Source](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF))  
   Inkling-2-Mini-Uncensored-GGUF is a multimodal image and text understanding model from AtomicChat. Learn how to run Inkling 2 Mini Uncensored locally - read our guide .
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Sentinel7/h3](./models/2026-11-21-h3.md)** ([Source](https://huggingface.co/Sentinel7/h3))  
   h3 is a machine learning tasks model from Sentinel7. It handles machine learning tasks. See the model card for full details on architecture, usage, and benchmarks.
-
-* **[inworld/voice-isolator](./models/2026-11-20-voice-isolator.md)** ([Source](https://huggingface.co/inworld/voice-isolator))  
-  voice-isolator is a audio to audio model from inworld. The chart is the denoising board, which ranks every system except those that put more than 10 dB more energy above a band-limited input's band than inside it; those are ranked on restoration.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->38<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->39<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

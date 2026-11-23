@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **38** models.
+Total indexed: **39** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[apple/DepthPro2](./2026-11-23-depthpro2.md)** ([Source](https://huggingface.co/apple/DepthPro2))  
+  DepthPro2 is a depth estimation model from apple. whole video, or a live feed, at the input's full resolution. Its depth is sharp at object edges
 
 * **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](./2026-11-22-inkling-2-mini-uncensored-gguf.md)** ([Source](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF))  
   Inkling-2-Mini-Uncensored-GGUF is a multimodal image and text understanding model from AtomicChat. Learn how to run Inkling 2 Mini Uncensored locally - read our guide .
