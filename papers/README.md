@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **37** papers.
+Total indexed: **38** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](./2026-11-23-cmhc-balancing-stream-mixing-in-hyper-connections-via-geomet.md)** ([Source](https://huggingface.co/papers/2611.27193))  
+  Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix residual streams within the Birkhoff polytope. We reveal a mixing trade-off: when under-mixed residual matrices stay close to the vertices of the Birkhoff polytope, hyper-connections will degenerate into a set of nearly in...
 
 * **[Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth](./2026-11-22-depth-pro-2-sharp-and-temporally-consistent-metric-monocular.md)** ([Source](https://huggingface.co/papers/2611.26603))  
   We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution.
