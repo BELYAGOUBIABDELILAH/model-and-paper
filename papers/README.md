@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **38** papers.
+Total indexed: **39** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Non-penetrating World Models](./2026-11-23-non-penetrating-world-models.md)** ([Source](https://huggingface.co/papers/2611.27963))  
+  We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures.
 
 * **[cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction](./2026-11-23-cmhc-balancing-stream-mixing-in-hyper-connections-via-geomet.md)** ([Source](https://huggingface.co/papers/2611.27193))  
   Manifold-constrained Hyper-Connections (mHC) extends residual connections to multiple streams and stabilizes residual propagation by constraining stream-mixing residual matrices to the Birkhoff polytope, the set of doubly stochastic matrices. In this work, we investigate how to effectively mix residual streams within the Birkhoff polytope. We reveal a mixing trade-off: when under-mixed residual matrices stay close to the vertices of the Birkhoff polytope, hyper-connections will degenerate into a set of nearly in...
