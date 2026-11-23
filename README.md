@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-38%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-39%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-40%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[SulphurAI/Sulphur-3](./models/2026-11-23-sulphur-3.md)** ([Source](https://huggingface.co/SulphurAI/Sulphur-3))  
+  Sulphur-3 is a machine learning tasks model from SulphurAI. Sulphur 3 is a derivative of MiniMax H3 and is released under the MiniMax H3 Community License. See LICENSE.
+
 * **[apple/DepthPro2](./models/2026-11-23-depthpro2.md)** ([Source](https://huggingface.co/apple/DepthPro2))  
   DepthPro2 is a depth estimation model from apple. whole video, or a live feed, at the input's full resolution. Its depth is sharp at object edges
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[thinkingmachines/Inkling-2-Mini](./models/2026-11-21-inkling-2-mini.md)** ([Source](https://huggingface.co/thinkingmachines/Inkling-2-Mini))  
   Inkling-2-Mini is a multimodal image and text understanding model from thinkingmachines. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
-
-* **[Sentinel7/h3](./models/2026-11-21-h3.md)** ([Source](https://huggingface.co/Sentinel7/h3))  
-  h3 is a machine learning tasks model from Sentinel7. It handles machine learning tasks. See the model card for full details on architecture, usage, and benchmarks.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->39<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->40<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **39** models.
+Total indexed: **40** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[SulphurAI/Sulphur-3](./2026-11-23-sulphur-3.md)** ([Source](https://huggingface.co/SulphurAI/Sulphur-3))  
+  Sulphur-3 is a machine learning tasks model from SulphurAI. Sulphur 3 is a derivative of MiniMax H3 and is released under the MiniMax H3 Community License. See LICENSE.
 
 * **[apple/DepthPro2](./2026-11-23-depthpro2.md)** ([Source](https://huggingface.co/apple/DepthPro2))  
   DepthPro2 is a depth estimation model from apple. whole video, or a live feed, at the input's full resolution. Its depth is sharp at object edges
