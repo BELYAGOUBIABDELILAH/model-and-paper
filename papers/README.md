@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **40** papers.
+Total indexed: **41** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[WorldLeague: Benchmarking Physical Agency](./2026-11-24-worldleague-benchmarking-physical-agency.md)** ([Source](https://huggingface.co/papers/2611.30989))  
+  AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action.
 
 * **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](./2026-11-24-embo-harness-towards-understanding-frontier-model-as-policy.md)** ([Source](https://huggingface.co/papers/2611.31201))  
   Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses.
