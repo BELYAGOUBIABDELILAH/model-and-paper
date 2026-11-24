@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-40%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-41%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-42%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[inclusionAI/LingSante-3.1-flash](./models/2026-11-24-lingsante-3-1-flash.md)** ([Source](https://huggingface.co/inclusionAI/LingSante-3.1-flash))  
+  LingSante-3.1-flash is a text generation model from inclusionAI. Real-world medical tasks present challenges that go beyond general intelligence, including incomplete health information, substantial patient heterogeneity, and strict operational and compliance requirements. To address these demands, LingSante-3.1-flash is trained to unify medical reasoning and workflow execution through native medical-mixed pretraining, mid-training, supervised fine-tuning, task-specific reinforcement learning, and multi-teacher on-policy distillation. The model can verify evidence across scen...
+
 * **[inclusionAI/Ling-3.2-air](./models/2026-11-24-ling-3-2-air.md)** ([Source](https://huggingface.co/inclusionAI/Ling-3.2-air))  
   Ling-3.2-air is a machine learning tasks model from inclusionAI. We introduce Ling-3.2-air, an open-weight model that shares the same native multimodal architecture as Ling-3.0-flash-VL. Compared with its predecessor, Ling-3.2-air shows stronger performance in workflow automation and reasoning over professional documents. Its AutomationBench-AA score rises from 15.7% to 61%, while its GDP.pdf all-pass rate increases from 8.4% to 16%.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[AtomicChat/Inkling-2-Mini-Uncensored-GGUF](./models/2026-11-22-inkling-2-mini-uncensored-gguf.md)** ([Source](https://huggingface.co/AtomicChat/Inkling-2-Mini-Uncensored-GGUF))  
   Inkling-2-Mini-Uncensored-GGUF is a multimodal image and text understanding model from AtomicChat. Learn how to run Inkling 2 Mini Uncensored locally - read our guide .
-
-* **[unsloth/Inkling-2-Mini-GGUF](./models/2026-11-22-inkling-2-mini-gguf.md)** ([Source](https://huggingface.co/unsloth/Inkling-2-Mini-GGUF))  
-  Inkling-2-Mini-GGUF is a multimodal image and text understanding model from unsloth. Inkling 2 Mini is a general-purpose multimodal model that accepts text and image inputs and generates text outputs. It is intended for use in English and other languages, and across multiple coding languages. The model is designed to be used by developers building AI-powered applications, including agentic and tool-use systems, coding assistants, chatbots, and retrieval-augmented generation systems, and is suitable for general-purpose conversational use, instruction-following, and other natural language and visu...
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->41<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->42<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 

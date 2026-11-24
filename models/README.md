@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **41** models.
+Total indexed: **42** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[inclusionAI/LingSante-3.1-flash](./2026-11-24-lingsante-3-1-flash.md)** ([Source](https://huggingface.co/inclusionAI/LingSante-3.1-flash))  
+  LingSante-3.1-flash is a text generation model from inclusionAI. Real-world medical tasks present challenges that go beyond general intelligence, including incomplete health information, substantial patient heterogeneity, and strict operational and compliance requirements. To address these demands, LingSante-3.1-flash is trained to unify medical reasoning and workflow execution through native medical-mixed pretraining, mid-training, supervised fine-tuning, task-specific reinforcement learning, and multi-teacher on-policy distillation. The model can verify evidence across scen...
 
 * **[inclusionAI/Ling-3.2-air](./2026-11-24-ling-3-2-air.md)** ([Source](https://huggingface.co/inclusionAI/Ling-3.2-air))  
   Ling-3.2-air is a machine learning tasks model from inclusionAI. We introduce Ling-3.2-air, an open-weight model that shares the same native multimodal architecture as Ling-3.0-flash-VL. Compared with its predecessor, Ling-3.2-air shows stronger performance in workflow automation and reasoning over professional documents. Its AutomationBench-AA score rises from 15.7% to 61%, while its GDP.pdf all-pass rate increases from 8.4% to 16%.
