@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **40** models.
+Total indexed: **41** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[inclusionAI/Ling-3.2-air](./2026-11-24-ling-3-2-air.md)** ([Source](https://huggingface.co/inclusionAI/Ling-3.2-air))  
+  Ling-3.2-air is a machine learning tasks model from inclusionAI. We introduce Ling-3.2-air, an open-weight model that shares the same native multimodal architecture as Ling-3.0-flash-VL. Compared with its predecessor, Ling-3.2-air shows stronger performance in workflow automation and reasoning over professional documents. Its AutomationBench-AA score rises from 15.7% to 61%, while its GDP.pdf all-pass rate increases from 8.4% to 16%.
 
 * **[SulphurAI/Sulphur-3](./2026-11-23-sulphur-3.md)** ([Source](https://huggingface.co/SulphurAI/Sulphur-3))  
   Sulphur-3 is a machine learning tasks model from SulphurAI. Sulphur 3 is a derivative of MiniMax H3 and is released under the MiniMax H3 Community License. See LICENSE.
