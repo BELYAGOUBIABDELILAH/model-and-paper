@@ -4,7 +4,7 @@
 
 <!-- COUNTERS:START -->
 <p align="center">
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-39%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-40%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-41%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
@@ -37,6 +37,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Research Papers
 
 <!-- PAPERS:START -->
+* **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](./papers/2026-11-24-embo-harness-towards-understanding-frontier-model-as-policy.md)** ([Source](https://huggingface.co/papers/2611.31201))  
+  Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses.
+
 * **[Non-penetrating World Models](./papers/2026-11-23-non-penetrating-world-models.md)** ([Source](https://huggingface.co/papers/2611.27963))  
   We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures.
 
@@ -48,12 +51,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[Coda-DaVinci: Reimagining Video Generation with Code2Video](./papers/2026-11-22-coda-davinci-reimagining-video-generation-with-code2video.md)** ([Source](https://huggingface.co/papers/2611.26595))  
   Code2Video uses agent-authored 3D proxies to guide video generation, enabling explicit control over structure and dynamics. However, how to construct proxies and prompts for optimal downstream quality remains underexplored, as do the capabilities and limitations of this paradigm. Through controlled experiments and blinded human evaluation, we study proxy granularity, physics simulation, and prompting.
-
-* **[Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models](./papers/2026-11-21-probing-the-conscious-mind-selective-access-and-global-works.md)** ([Source](https://huggingface.co/papers/2611.26590))  
-  Vision-language models (VLMs) integrate visual and textual information, but their outputs do not reveal internal concept representations. Global workspace theory (GWT) proposes that information is selected from parallel brain processes, integrated in a shared workspace, and made available to specialised processes. We introduce the Multimodal Concept Lens (MC-Lens), a multimodal Jacobian lens, to study these functions in VLM concept processing.
 <!-- PAPERS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->39<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md">View all <!-- PAPERS_COUNT -->40<!-- /PAPERS_COUNT --> research papers in archive →</a></p>
 
 ---
 

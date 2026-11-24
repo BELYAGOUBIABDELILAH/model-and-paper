@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **39** papers.
+Total indexed: **40** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness](./2026-11-24-embo-harness-towards-understanding-frontier-model-as-policy.md)** ([Source](https://huggingface.co/papers/2611.31201))  
+  Frontier multimodal models exhibit extraordinary generalization in generating robot actions from observations and instructions, enabling a new paradigm in which they serve directly as policies within closed-loop robotic harnesses. However, the design principles of such harnesses, and the capabilities underlying their strong performance, remain unclear. We present Embo-Harness, a framework for systematically studying frontier-model-as-policy harnesses.
 
 * **[Non-penetrating World Models](./2026-11-23-non-penetrating-world-models.md)** ([Source](https://huggingface.co/papers/2611.27963))  
   We study a new problem of preventing object penetration in interactive video world models. To understand how existing models handle this, we introduce NoPeBench, a benchmark that evaluates how world models respond to physical obstacles. Our evaluation reveals that none of the open-source models can reliably prevent such failures.
