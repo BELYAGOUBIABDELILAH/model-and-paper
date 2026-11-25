@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **42** models.
+Total indexed: **43** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[llamaindex/OCRia-nano-1](./2026-11-25-ocria-nano-1.md)** ([Source](https://huggingface.co/llamaindex/OCRia-nano-1))  
+  OCRia-nano-1 is a image captioning model from llamaindex. OCRia-nano-1 is an 8.1M-parameter model pipeline for document parsing on CPU from LlamaIndex.
 
 * **[inclusionAI/LingSante-3.1-flash](./2026-11-24-lingsante-3-1-flash.md)** ([Source](https://huggingface.co/inclusionAI/LingSante-3.1-flash))  
   LingSante-3.1-flash is a text generation model from inclusionAI. Real-world medical tasks present challenges that go beyond general intelligence, including incomplete health information, substantial patient heterogeneity, and strict operational and compliance requirements. To address these demands, LingSante-3.1-flash is trained to unify medical reasoning and workflow execution through native medical-mixed pretraining, mid-training, supervised fine-tuning, task-specific reinforcement learning, and multi-teacher on-policy distillation. The model can verify evidence across scen...
