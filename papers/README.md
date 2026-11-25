@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **42** papers.
+Total indexed: **43** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement](./2026-11-25-partagent-agentic-3d-part-segmentation-via-expert-integratio.md)** ([Source](https://huggingface.co/papers/2611.32554))  
+  Segmenting a 3D object into semantically meaningful parts requires joint reasoning about geometric structure and semantic context. Pretrained 3D experts provide spatially grounded region proposals, while 2D experts provide semantic cues for identifying object parts. The challenge is to integrate these complementary capabilities into a framework that can both produce meaningful part segmentations and progressively refine them.
 
 * **[Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](./2026-11-25-lazy-agents-answer-against-their-own-beliefs-reinforcement-l.md)** ([Source](https://huggingface.co/papers/2611.32884))  
   AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers. An outcome reward at the end of the episode scores only the final answer, so it cannot teach the agent when to commit, because a lucky guess receives the same reward as an answer backed by evidence.
