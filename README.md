@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-42%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-43%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-44%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[prism-ml/Ternary-Bonsai-2.5-27B-GGUF](./models/2026-11-25-ternary-bonsai-2-5-27b-gguf.md)** ([Source](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF))  
+  Ternary-Bonsai-2.5-27B-GGUF is a text generation model from prism-ml. Ternary Bonsai 2.5 27B is the agentic release of the Ternary Bonsai 27B line. It keeps the Qwen3.8-27B hybrid-attention architecture and the ternary weight format of Bonsai 2, so it is still 1.76 bits per weight and 5.93 GB, against 53.8 GB for the FP16 model. This release targets long-horizon, tool-driven work.
+
 * **[llamaindex/OCRia-nano-1](./models/2026-11-25-ocria-nano-1.md)** ([Source](https://huggingface.co/llamaindex/OCRia-nano-1))  
   OCRia-nano-1 is a image captioning model from llamaindex. OCRia-nano-1 is an 8.1M-parameter model pipeline for document parsing on CPU from LlamaIndex.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[SulphurAI/Sulphur-3](./models/2026-11-23-sulphur-3.md)** ([Source](https://huggingface.co/SulphurAI/Sulphur-3))  
   Sulphur-3 is a machine learning tasks model from SulphurAI. Sulphur 3 is a derivative of MiniMax H3 and is released under the MiniMax H3 Community License. See LICENSE.
-
-* **[apple/DepthPro2](./models/2026-11-23-depthpro2.md)** ([Source](https://huggingface.co/apple/DepthPro2))  
-  DepthPro2 is a depth estimation model from apple. whole video, or a live feed, at the input's full resolution. Its depth is sharp at object edges
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->43<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->44<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
