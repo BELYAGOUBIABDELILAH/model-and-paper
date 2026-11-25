@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **41** papers.
+Total indexed: **42** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe](./2026-11-25-lazy-agents-answer-against-their-own-beliefs-reinforcement-l.md)** ([Source](https://huggingface.co/papers/2611.32884))  
+  AI agents working on long tasks often commit to an answer before they have enough evidence, a behavior called laziness. In our evaluations, they frequently commit even while their stated belief still names several possible answers. An outcome reward at the end of the episode scores only the final answer, so it cannot teach the agent when to commit, because a lucky guess receives the same reward as an answer backed by evidence.
 
 * **[WorldLeague: Benchmarking Physical Agency](./2026-11-24-worldleague-benchmarking-physical-agency.md)** ([Source](https://huggingface.co/papers/2611.30989))  
   AI systems can now operate Blender, follow instructions in complex video games, and manipulate objects with robot arms. What range of physical goals can today's AI systems achieve autonomously? Answering this question requires testing systems on tasks that demand different combinations of perception, memory, planning, and action.
