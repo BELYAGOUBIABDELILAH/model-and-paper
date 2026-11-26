@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **44** papers.
+Total indexed: **45** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Sage-Med: Scaling Medical Multimodal Intelligence](./2026-11-26-sage-med-scaling-medical-multimodal-intelligence.md)** ([Source](https://huggingface.co/papers/2611.34575))  
+  Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we int...
 
 * **[Real2SimLab: A Unified Platform for Real-to-Simulation Transfer](./2026-11-26-real2simlab-a-unified-platform-for-real-to-simulation-transf.md)** ([Source](https://huggingface.co/papers/2611.34849))  
   Real-to-simulation transfer, which builds simulations from real-world observations, has long been studied in research and industry. Recently, coding agents have become capable of generating simulation programs from video recordings, and several benchmarks have been proposed to evaluate them. However, each individual benchmark defines its own inputs, deliverables, and scoring pipeline.
