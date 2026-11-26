@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **45** models.
+Total indexed: **46** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[nari-labs/Qwen3.8-27B-NariQ-GGUF](./2026-11-26-qwen3-8-27b-nariq-gguf.md)** ([Source](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF))  
+  Qwen3.8-27B-NariQ-GGUF is a multimodal image and text understanding model from nari-labs. The sampling flags are the thinking-mode settings our scores used. -c 131072 fits a 24 GB GPU with little to spare;
 
 * **[nvidia/Nemotron-Labs-Image-30B-A3B](./2026-11-26-nemotron-labs-image-30b-a3b.md)** ([Source](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B))  
   Nemotron-Labs-Image-30B-A3B is a text-to-image generation model from nvidia. documents, charts, and scientific figures. Its Pixel as Code interface
