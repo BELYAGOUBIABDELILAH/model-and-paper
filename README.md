@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-43%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-44%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-45%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -60,6 +60,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 ## Latest Open-Source Models
 
 <!-- MODELS:START -->
+* **[nvidia/Nemotron-Labs-Image-30B-A3B](./models/2026-11-26-nemotron-labs-image-30b-a3b.md)** ([Source](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B))  
+  Nemotron-Labs-Image-30B-A3B is a text-to-image generation model from nvidia. documents, charts, and scientific figures. Its Pixel as Code interface
+
 * **[prism-ml/Ternary-Bonsai-2.5-27B-GGUF](./models/2026-11-25-ternary-bonsai-2-5-27b-gguf.md)** ([Source](https://huggingface.co/prism-ml/Ternary-Bonsai-2.5-27B-GGUF))  
   Ternary-Bonsai-2.5-27B-GGUF is a text generation model from prism-ml. Ternary Bonsai 2.5 27B is the agentic release of the Ternary Bonsai 27B line. It keeps the Qwen3.8-27B hybrid-attention architecture and the ternary weight format of Bonsai 2, so it is still 1.76 bits per weight and 5.93 GB, against 53.8 GB for the FP16 model. This release targets long-horizon, tool-driven work.
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[inclusionAI/Ling-3.2-air](./models/2026-11-24-ling-3-2-air.md)** ([Source](https://huggingface.co/inclusionAI/Ling-3.2-air))  
   Ling-3.2-air is a machine learning tasks model from inclusionAI. We introduce Ling-3.2-air, an open-weight model that shares the same native multimodal architecture as Ling-3.0-flash-VL. Compared with its predecessor, Ling-3.2-air shows stronger performance in workflow automation and reasoning over professional documents. Its AutomationBench-AA score rises from 15.7% to 61%, while its GDP.pdf all-pass rate increases from 8.4% to 16%.
-
-* **[SulphurAI/Sulphur-3](./models/2026-11-23-sulphur-3.md)** ([Source](https://huggingface.co/SulphurAI/Sulphur-3))  
-  Sulphur-3 is a machine learning tasks model from SulphurAI. Sulphur 3 is a derivative of MiniMax H3 and is released under the MiniMax H3 Community License. See LICENSE.
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->44<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->45<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
