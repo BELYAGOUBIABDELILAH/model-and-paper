@@ -1,6 +1,6 @@
 # Research Papers Archive
 
-Total indexed: **46** papers.
+Total indexed: **47** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **46** papers.
 
 * **[Mixture-of-Loops Transformer](./2026-11-27-mixture-of-loops-transformer.md)** ([Source](https://huggingface.co/papers/2611.34923))  
   Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops.
+
+* **[Improving and Expanding Video Editing Capabilities Without Videos](./2026-11-27-improving-and-expanding-video-editing-capabilities-without-v.md)** ([Source](https://huggingface.co/papers/2611.34941))  
+  Image editing models can follow a wide range of instructions, but video editing models still lag behind, limited in part by the difficulty of collecting paired source and edited videos. Is it possible to transfer advanced image editing capabilities to video editors without new paired videos? We introduce Image-to-Video Transfer (I2VT), which improves pretrained video editors and expands them to new editing tasks using an image editor.
 
 * **[Sage-Med: Scaling Medical Multimodal Intelligence](./2026-11-26-sage-med-scaling-medical-multimodal-intelligence.md)** ([Source](https://huggingface.co/papers/2611.34575))  
   Establishing effective scaling laws for medical multimodal large language models (MLLMs) remains a persistent and fundamental challenge. Our systematic evaluation shows that existing medical MLLMs tend to underperform frontier general-purpose MLLMs across a range of medical tasks, while scaling model size primarily improves text capabilities rather than multimodal perception, and enabling reasoning modes fails to close this visual gap. To investigate how medical multimodal intelligence scales in practice, we int...
