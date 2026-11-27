@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **46** models.
+Total indexed: **47** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[strata-engine/Inkling-2-Mini-Strata](./2026-11-27-inkling-2-mini-strata.md)** ([Source](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata))  
+  Inkling-2-Mini-Strata is a multimodal image and text understanding model from strata-engine. Inkling 2 Mini is Thinking Machines Lab's open-weights model made to run on local hardware. It is a looped transformer: the middle layers run three times for every token. It has 26.4B parameters and uses 3.4B per token (5.4B when the repeated passes are counted).
 
 * **[nari-labs/Qwen3.8-27B-NariQ-GGUF](./2026-11-26-qwen3-8-27b-nariq-gguf.md)** ([Source](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF))  
   Qwen3.8-27B-NariQ-GGUF is a multimodal image and text understanding model from nari-labs. The sampling flags are the thinking-mode settings our scores used. -c 131072 fits a 24 GB GPU with little to spare;
