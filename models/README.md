@@ -1,6 +1,6 @@
 # Open-Source Models Archive
 
-Total indexed: **47** models.
+Total indexed: **48** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
@@ -8,6 +8,9 @@ Total indexed: **47** models.
 
 * **[strata-engine/Inkling-2-Mini-Strata](./2026-11-27-inkling-2-mini-strata.md)** ([Source](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata))  
   Inkling-2-Mini-Strata is a multimodal image and text understanding model from strata-engine. Inkling 2 Mini is Thinking Machines Lab's open-weights model made to run on local hardware. It is a looped transformer: the middle layers run three times for every token. It has 26.4B parameters and uses 3.4B per token (5.4B when the repeated passes are counted).
+
+* **[ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF](./2026-11-27-inkling-2-mini-gsq-rco-gguf.md)** ([Source](https://huggingface.co/ISTA-DASLab/Inkling-2-Mini-GSQ-RCO-GGUF))  
+  Inkling-2-Mini-GSQ-RCO-GGUF is a text generation model from ISTA-DASLab. Each build is a single GGUF named after its quantization identifier: Inkling-2-Mini-GSQ-RCO- .gguf. The bpw is the average bit-width over the whole file, 26.07B parameters.
 
 * **[nari-labs/Qwen3.8-27B-NariQ-GGUF](./2026-11-26-qwen3-8-27b-nariq-gguf.md)** ([Source](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF))  
   Qwen3.8-27B-NariQ-GGUF is a multimodal image and text understanding model from nari-labs. The sampling flags are the thinking-mode settings our scores used. -c 131072 fits a 24 GB GPU with little to spare;
