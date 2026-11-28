@@ -1,10 +1,13 @@
 # Open-Source Models Archive
 
-Total indexed: **48** models.
+Total indexed: **49** models.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[sand-ai/MAGI-2-preview](./2026-11-28-magi-2-preview.md)** ([Source](https://huggingface.co/sand-ai/MAGI-2-preview))  
+  MAGI-2-preview is a image text to video model from sand-ai. There is a tag per commit as well, sandai/magi-2-preview: . Name that
 
 * **[strata-engine/Inkling-2-Mini-Strata](./2026-11-27-inkling-2-mini-strata.md)** ([Source](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata))  
   Inkling-2-Mini-Strata is a multimodal image and text understanding model from strata-engine. Inkling 2 Mini is Thinking Machines Lab's open-weights model made to run on local hardware. It is a looped transformer: the middle layers run three times for every token. It has 26.4B parameters and uses 3.4B per token (5.4B when the repeated passes are counted).
