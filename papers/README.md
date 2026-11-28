@@ -1,10 +1,13 @@
 # Research Papers Archive
 
-Total indexed: **47** papers.
+Total indexed: **48** papers.
 
 [← Back to Model & Paper](https://github.com/BELYAGOUBIABDELILAH/model-and-paper)
 
 ---
+
+* **[Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models](./2026-11-28-solve-vision-with-code-coding-agents-are-stronger-visual-rea.md)** ([Source](https://huggingface.co/papers/2611.34813))  
+  Video generation models are increasingly evaluated as visual reasoners: given a first frame and a natural-language prompt, can the model produce the video in which the specified task is carried out? The paradigm is considered advantageous because the reasoning is native to the visual medium, unfolding directly in the frames rather than through language or code. Whether this native route is in fact the more reliable path to visual reasoning has not been tested against a symbolic alternative under the same conditi...
 
 * **[Mixture-of-Loops Transformer](./2026-11-27-mixture-of-loops-transformer.md)** ([Source](https://huggingface.co/papers/2611.34923))  
   Looped Transformers boost expressivity by reusing shared layers across loops, yet at the cost of efficiency. Pushing their expressivity-efficiency frontier requires rethinking the core mechanism connecting adjacent loops: What should be passed as a Transformer loops? We introduce Mixture-of-Loops Transformer (MoLT), whose Mixture-of-Loops Attention (MoLA) uses keys and values (KV) as memory for selective reuse across depths and loops.
