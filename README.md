@@ -5,7 +5,7 @@
 <!-- COUNTERS:START -->
 <p align="center">
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/papers/README.md"><img src="https://img.shields.io/badge/Papers-48%20Indexed-2563eb?style=flat-square" alt="Papers Count"></a>
-  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-49%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
+  <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md"><img src="https://img.shields.io/badge/Models-50%20Indexed-16a34a?style=flat-square" alt="Models Count"></a>
   <a href="https://axiomrepo.substack.com/"><img src="https://img.shields.io/badge/Newsletter-Axiom%20Repo-ff6719?style=flat-square&logo=substack" alt="Axiom Repo Newsletter"></a>
   <a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-gray?style=flat-square" alt="License"></a>
 </p>
@@ -63,6 +63,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 * **[sand-ai/MAGI-2-preview](./models/2026-11-28-magi-2-preview.md)** ([Source](https://huggingface.co/sand-ai/MAGI-2-preview))  
   MAGI-2-preview is a image text to video model from sand-ai. There is a tag per commit as well, sandai/magi-2-preview: . Name that
 
+* **[kandinskylab/Kandinsky-ImageSR-2.0](./models/2026-11-28-kandinsky-imagesr-2-0.md)** ([Source](https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0))  
+  Kandinsky-ImageSR-2.0 is a image to image model from kandinskylab. default settings (tilebatchsize=1). Each time is the median of 5 full pipe(...) calls
+
 * **[strata-engine/Inkling-2-Mini-Strata](./models/2026-11-27-inkling-2-mini-strata.md)** ([Source](https://huggingface.co/strata-engine/Inkling-2-Mini-Strata))  
   Inkling-2-Mini-Strata is a multimodal image and text understanding model from strata-engine. Inkling 2 Mini is Thinking Machines Lab's open-weights model made to run on local hardware. It is a looped transformer: the middle layers run three times for every token. It has 26.4B parameters and uses 3.4B per token (5.4B when the repeated passes are counted).
 
@@ -71,12 +74,9 @@ Weekly coverage of open-source AI models and machine learning research papers.
 
 * **[nari-labs/Qwen3.8-27B-NariQ-GGUF](./models/2026-11-26-qwen3-8-27b-nariq-gguf.md)** ([Source](https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF))  
   Qwen3.8-27B-NariQ-GGUF is a multimodal image and text understanding model from nari-labs. The sampling flags are the thinking-mode settings our scores used. -c 131072 fits a 24 GB GPU with little to spare;
-
-* **[nvidia/Nemotron-Labs-Image-30B-A3B](./models/2026-11-26-nemotron-labs-image-30b-a3b.md)** ([Source](https://huggingface.co/nvidia/Nemotron-Labs-Image-30B-A3B))  
-  Nemotron-Labs-Image-30B-A3B is a text-to-image generation model from nvidia. documents, charts, and scientific figures. Its Pixel as Code interface
 <!-- MODELS:END -->
 
-<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->49<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
+<p><a href="https://github.com/BELYAGOUBIABDELILAH/model-and-paper/blob/main/models/README.md">View all <!-- MODELS_COUNT -->50<!-- /MODELS_COUNT --> open-source models in archive →</a></p>
 
 ---
 
